@@ -1,0 +1,224 @@
+{
+  "rows": [
+    {
+      "id": "flores-0001",
+      "line": 1,
+      "source": "\"We now have 4-month-old mice that are non-diabetic that used to be diabetic,\" he added.",
+      "reference": "Daha önce diyabetik olup şimdi diyabetik olmayan 4 aylık farelerimiz var, diye ekledi.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "\"Şu anda, daha önce diyabetli olan, ancak şu anda diyabet belirtisi göstermeyen 4 aylık farelerimiz var,\" diye ekledi.",
+      "error": null,
+      "seconds": 48.86
+    },
+    {
+      "id": "flores-0101",
+      "line": 101,
+      "source": "In one year's time, an infected person may infect 10 to 15 close contacts.",
+      "reference": "Enfekte bir kişi 1 yıl içerisinde 10 ila 15 yakın temasa hastalık bulaştırabilir.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Bir yıl içinde, enfekte bir kişi 10 ila 15 yakın temaslı kişiyi enfekte edebilir.",
+      "error": null,
+      "seconds": 13.812
+    },
+    {
+      "id": "flores-0201",
+      "line": 201,
+      "source": "They include the Netherlands, with Anna Jochemsen finishing ninth in the women's standing class in the Super-G yesterday, and Finland with Katja Saarinen finishing tenth in the same event.",
+      "reference": "Anna Jochemsen'in dün Super-G kadınlar ayakta sınıfında dokuzuncu bitirmesi ile Hollanda'yı ve aynı etkinlikte onuncu bitiren Katja Saarinen ile Finlandiya'yı içermektedir.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Bu ülkeler arasında Hollanda yer alıyor; Anna Jochemsen, dün düzenlenen kadınlar süper dev (Super-G) yarışmasında, engelli sporcuların ayakta durma kategorisinde dokuzuncu sırada yer aldı. Ayrıca Finlandiya da bu ülkelerden biri; Katja Saarinen, aynı yarışmada onuncu oldu.",
+      "error": null,
+      "seconds": 36.235
+    },
+    {
+      "id": "flores-0301",
+      "line": 301,
+      "source": "The commission was Martelly's response to widespread anti-regime protests that started in October.",
+      "reference": "Martelly, ekim ayında başlayan ve katılımın yüksek olduğu rejim karşıtı gösterilere bu komisyonla yanıt verdi.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Komisyon, Martelly'nin, Ekim ayında başlayan ve ülke genelinde hükümete karşı yapılan yaygın protestolara verdiği bir yanıttı.",
+      "error": null,
+      "seconds": 16.89
+    },
+    {
+      "id": "flores-0401",
+      "line": 401,
+      "source": "Though each country was 'Scandinavian', there were many differences between the people, kings, customs and history of Denmark, Sweden, Norway and Iceland.",
+      "reference": "Her ülke 'İskandinav' olsa da, Danimarka, İsveç, Norveç ve İzlanda halkları, kralları, gelenekleri ve tarihleri arasında birçok fark vardı.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Her ne kadar her ülke \"İskandinav\" olarak tanımlanmış olsa da, Danimarka, İsveç, Norveç ve İzlanda halkları, hükümdarları, gelenekleri ve tarihleri arasında birçok farklılık vardı.",
+      "error": null,
+      "seconds": 26.766
+    },
+    {
+      "id": "flores-0501",
+      "line": 501,
+      "source": "Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.",
+      "reference": "Üyelerin yaşı, etnik kökeni, sınıfı, yeri ve/veya cinsiyeti nedeniyle alt kültürler ayırt edici olabilir.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Alt kültürler, üyelerinin yaşı, etnik kökeni, sosyal sınıfı, bulunduğu yer veya cinsiyeti gibi özellikler nedeniyle farklılık gösterebilir.",
+      "error": null,
+      "seconds": 17.484
+    },
+    {
+      "id": "flores-0601",
+      "line": 601,
+      "source": "Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.",
+      "reference": "Hershey ve Chase, kendilerine ait DNA'ları bir bakteriye implantasyon yöntemi ile yerleştirmek amacıyla faj ve virüslerden yararlandı.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Hershey ve Chase, kendi DNA'larını bir bakteriye yerleştirmek için, faj adı verilen virüsleri kullanmışlardır.",
+      "error": null,
+      "seconds": 14.797
+    },
+    {
+      "id": "flores-0701",
+      "line": 701,
+      "source": "The Arabs also brought Islam to the lands, and it took in a big way in the Comoros and Mayotte.",
+      "reference": "Araplar aynı zamanda bu topraklara İslam'ı getirdi ve Komorolarda ve Mayotte'ta çok yaygınlaştı.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Arap halkı, İslam'ı da bu topraklara getirdi ve İslam, Komorlar ve Mayotte adalarında büyük bir ilgi gördü.",
+      "error": null,
+      "seconds": 17.781
+    },
+    {
+      "id": "flores-0801",
+      "line": 801,
+      "source": "They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.",
+      "reference": "Misafirleri iyi bir ruh halinde tutmak ve hoşnut etmek için genellikle özel olarak hazırlanan yiyecek, içecek ve eğlence ikramları olur.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Genellikle, misafirlerin iyi bir ruh halinde olmalarını ve tesis içinde kalmalarını sağlamak amacıyla, özel yiyecek, içecek ve eğlence seçenekleri sunarlar.",
+      "error": null,
+      "seconds": 20.813
+    },
+    {
+      "id": "flores-0901",
+      "line": 901,
+      "source": "Usually you always here the sound of tourists and vendors. The story of the sound and light is just like a story book.",
+      "reference": "Genellikle turistlerin ve satıcıların sesini her zaman duyarsınız. Sesin ve ışığın hikayesi bir hikaye kitabı gibidir.",
+      "engine": "TranslateGemma-12B",
+      "split": "development",
+      "text": "Genellikle burada turistlerin ve satıcıların seslerini sık sık duyarsınız. Ses ve ışık gösterisi, adeta bir masal kitabı gibi.",
+      "error": null,
+      "seconds": 17.453
+    },
+    {
+      "id": "flores-holdout-0051",
+      "line": 51,
+      "source": "The Iraq Study Group presented its report at 12.00 GMT today.",
+      "reference": "Irak Çalışma Grubu bildirisni bugün 12.00 GMT'de takdim etti.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Irak Çalışma Grubu, raporunu bugün saat 12:00 GMT'de (uluslararası koordineli zaman) sunmuştur.",
+      "error": null,
+      "seconds": 16.781
+    },
+    {
+      "id": "flores-holdout-0151",
+      "line": 151,
+      "source": "The medical charity Mangola, Medecines Sans Frontieres and the World Health Organisation say it is the worst outbreak recorded in the country.",
+      "reference": "Tıbbi yardım kuruluşu Mangola, Sınır Tanımayan Doktorlar ve Dünya Sağlık Örgütü, bunun ülkede görülen en kötü salgın olduğunu söylüyor.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Mangola adlı tıbbi yardım kuruluşu, Doctors Without Borders (Sınır Tanımayan Doktorlar) ve Dünya Sağlık Örgütü, bunun ülkedeki kaydedilen en kötü salgın olduğunu belirtiyor.",
+      "error": null,
+      "seconds": 23.282
+    },
+    {
+      "id": "flores-holdout-0251",
+      "line": 251,
+      "source": "Hokuriku Electric Power Co. reported no effects from the earthquake and that the Number 1 and 2 reactors at its Shika nuclear power plant were shut down.",
+      "reference": "Hokuriku Electric Power Co., sarsıntının herhangi bir zarar vermediğini ve Shika nükleer santralindeki 1 ve 2 Numaralı reaktörlerin çalışmasının durdurulduğunu belirtti.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Hokuriku Elektrik Enerjisi Şirketi, depremden kaynaklanan herhangi bir olumsuz etkilenme olmadığını bildirdi ve Shika nükleer enerji santralindeki 1 ve 2 numaralı reaktörlerin kapatıldığını duyurdu.",
+      "error": null,
+      "seconds": 28.953
+    },
+    {
+      "id": "flores-holdout-0351",
+      "line": 351,
+      "source": "The cities of Harappa and Mohenjo-daro had a flush toilet in almost every house, attached to a sophisticated sewage system.",
+      "reference": "Harappa ve Mohenjo-daro şehirlerinin hemen hemen her evi sofistike bir kanalizasyon sistemine bağlı bir sifonlu tuvalete sahipti.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Harappa ve Mohenjo-daro şehirlerinde, neredeyse her evde gelişmiş bir kanalizasyon sistemine bağlı, modern bir tuvalet bulunuyordu.",
+      "error": null,
+      "seconds": 19.484
+    },
+    {
+      "id": "flores-holdout-0451",
+      "line": 451,
+      "source": "Ancient China had a unique way of showing different time periods; each stage of China or each family that was in power was a distinctive dynasty.",
+      "reference": "Antik Çin, farklı zaman dönemlerini göstermek konusunda özgün bir yol izlemiştir; Çin'in her dönemi veya iktidardaki her aile ayrı bir hanedanlıktır.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Antik Çin'de farklı zaman dönemlerini ifade etme konusunda kendine özgü bir yöntem kullanılıyordu; Çin'in her dönemi veya iktidarda olan her aile, kendine has bir hanedanı temsil ediyordu.",
+      "error": null,
+      "seconds": 25.781
+    },
+    {
+      "id": "flores-holdout-0551",
+      "line": 551,
+      "source": "The job of navies has traditionally been to ensure that your country maintains the ability to move your people and goods, while at the same time, interfering with your enemy's ability to move his people and goods.",
+      "reference": "Donanmaların görevi geleneksel olarak bir yandan ülkenizin, halkınızı ve mallarınızı taşıma kabiliyetini korumak, bir yandan da düşmanın halkını ve mallarını taşıma kabiliyetine müdahale etmesini sağlamak olagelmiştir.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Donanmaların geleneksel görevi, ülkenizin vatandaşlarının ve mallarının taşınabilirliğini sağlamak, aynı zamanda da düşmanın kendi vatandaşlarını ve mallarını taşıma yeteneğini engellemektir.",
+      "error": null,
+      "seconds": 24.438
+    },
+    {
+      "id": "flores-holdout-0651",
+      "line": 651,
+      "source": "The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.",
+      "reference": "Ay'ın yüzeyi kayalardan ve tozdan oluşur. Ay'ın dış katmanına kabuk ismi verilir.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Ay'ın yüzeyi kayalar ve tozdan oluşur. Ay'ın dış katmanına \"kabuk\" denir.",
+      "error": null,
+      "seconds": 14.984
+    },
+    {
+      "id": "flores-holdout-0751",
+      "line": 751,
+      "source": "Argentina is well known for having one of the best polo teams and players in the world.",
+      "reference": "Arjantin, dünyanın en iyi polo takımlarından birine ve en iyi oyunculara sahip olmakla meşhurdur.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Arjantin, dünyanın en iyi polo takımlarından ve oyuncularından birine sahip olmasıyla tanınır.",
+      "error": null,
+      "seconds": 13.313
+    },
+    {
+      "id": "flores-holdout-0851",
+      "line": 851,
+      "source": "Skiing is a major travelling activity with many enthusiasts, occasionally known as \"ski bums,\" planning entire vacations around skiing at a particular location.",
+      "reference": "Kayak \"kayak müptelaları\" olarak da adlandırılan ve belirli bir yerde kayak yapmak için bütün tatillerini planlayan pek çok meraklısı için önemli bir seyahat aktivitesidir.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Kayak yapmak, birçok meraklısı olan önemli bir seyahat aktivitesidir ve bazıları, özellikle \"kayak tutkunları\" olarak bilinirler, tatillerini belirli bir bölgede kayak yapmaya odaklayarak planlarlar.",
+      "error": null,
+      "seconds": 26.265
+    },
+    {
+      "id": "flores-holdout-0951",
+      "line": 951,
+      "source": "Also to the north visit the great Sanctuary of Our Lady of Fatima (Shrine), a place of worldwide famous Marian apparitions.",
+      "reference": "Ayrıca kuzeyde, dünyaca ünlü Meryem'in görüntüsünün gerçekleştiği bir yer olan büyük Fatima Meryem Ana Tapınağı'nı (Tapınak) ziyaret edin.",
+      "engine": "TranslateGemma-12B",
+      "split": "holdout",
+      "text": "Ayrıca, kuzeyde bulunan ve dünya çapında ünlü Meryem görünümlerine ev sahipliği yapan, büyük Fatima Meryem Ana Kutsal Alanı'nı da ziyaret edebilirsiniz.",
+      "error": null,
+      "seconds": 23.422
+    }
+  ]
+}

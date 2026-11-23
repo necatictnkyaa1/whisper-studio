@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><title>Makine Öğrenmesi · Hafta 5 Ders Notu</title>
+<style>body{font-family:"Segoe UI",Arial,sans-serif;font-size:13pt;line-height:1.5;margin:2cm;} h1{font-size:18pt} .page{page-break-after:always} code{font-family:Consolas,monospace}</style>
+</head><body>
+<!-- DersYazı uçtan uca test materyali. Sentetik öğretmen notu; gerçek bir okul belgesi değildir. -->
+<div class="page">
+<h1>Makine Öğrenmesi · Hafta 5: Gradyan İnişi</h1>
+<p>Gradyan inişi (gradient descent), bir kayıp fonksiyonunu en aza indirmek için kullanılan yinelemeli bir optimizasyon yöntemidir.
+Her adımda parametreler, kayıp fonksiyonunun gradyanının ters yönünde küçük bir miktar hareket ettirilir.</p>
+<p>Güncelleme kuralı: <code>w(t+1) = w(t) − η · ∇L(w(t))</code>. Burada η (eta) öğrenme oranıdır, ∇L ise kayıp fonksiyonunun gradyanıdır.</p>
+<p>Öğrenme oranı çok küçük seçilirse algoritma yavaş yakınsar. Çok büyük seçilirse minimum noktanın üzerinden atlanır ve
+algoritma ıraksayabilir. Pratikte 0,001 ile 0,1 arasındaki değerlerle denemeye başlanır.</p>
+<p>Ortalama kare hata (mean squared error, MSE): <code>MSE = (1/n) · Σ (yᵢ − ŷᵢ)²</code>. Doğrusal regresyonda sık kullanılan kayıp fonksiyonudur.</p>
+</div>
+<div class="page">
+<h1>Örnek: Tek değişkenli fonksiyon</h1>
+<p>f(w) = (w − 3)² fonksiyonunu ele alalım. Türevi f′(w) = 2(w − 3) olur. Başlangıç değeri w₀ = 0 ve öğrenme oranı η = 0,1 olsun.</p>
+<p>1. adım: f′(0) = −6, w₁ = 0 − 0,1 · (−6) = 0,6.<br>
+2. adım: f′(0,6) = −4,8, w₂ = 0,6 − 0,1 · (−4,8) = 1,08.<br>
+Değerler adım adım minimum nokta olan w = 3'e yaklaşır.</p>
+<p>Not: Her adımda w ile 3 arasındaki uzaklık 0,8 katına iner, çünkü w(t+1) − 3 = (1 − 2η)(w(t) − 3).</p>
+</div>
+<div class="page">
+<h1>Taylor serisi ile yerel yaklaşım</h1>
+<p>Bir fonksiyon a noktası çevresinde Taylor serisiyle yaklaşık olarak yazılabilir:
+<code>f(x) ≈ f(a) + f′(a)(x − a) + (1/2) f″(a)(x − a)² + …</code></p>
+<p>Birinci dereceden terim fonksiyonun eğimini, ikinci dereceden terim ise eğriliğini temsil eder.
+Gradyan inişi yalnızca birinci dereceden bilgiyi kullanır. Newton yöntemi ikinci dereceden bilgiyi de kullanır.</p>
+<p>Kodlama uygulamasında polinom katsayıları incelenirken sıfır olan bileşenler atılır; birinci, ikinci ve üçüncü dereceden bileşenlerin etkisi ayrı ayrı gözlenir.</p>
+</div>
+</body></html>

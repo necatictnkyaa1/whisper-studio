@@ -1,0 +1,8 @@
+faster-whisper>=1.2,<2
+ctranslate2>=4.6.3,<5
+PySide6-Essentials>=6.8,<7
+PySide6-Pdf>=6.8,<7
+nvidia-cublas-cu12>=12.8,<13
+av>=14,<17
+sentencepiece==0.2.1
+sympy>=1.13,<2

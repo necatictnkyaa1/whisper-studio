@@ -1,0 +1,69 @@
+{
+  "source": "https://dl.fbaipublicfiles.com/nllb/flores200_dataset.tar.gz",
+  "upstream": "https://github.com/facebookresearch/flores/tree/main/flores200",
+  "archive_sha256": "b8b0b76783024b85797e5cc75064eb83fc5288b41e9654dabc7be6ae944011f6",
+  "selection": "devtest satırları 1,101,...,901; model yanıtları görülmeden seçildi.",
+  "license_file": "FLORES-LICENSE.txt",
+  "rows": [
+    {
+      "id": "flores-0001",
+      "line": 1,
+      "source": "\"We now have 4-month-old mice that are non-diabetic that used to be diabetic,\" he added.",
+      "reference": "Daha önce diyabetik olup şimdi diyabetik olmayan 4 aylık farelerimiz var, diye ekledi."
+    },
+    {
+      "id": "flores-0101",
+      "line": 101,
+      "source": "In one year's time, an infected person may infect 10 to 15 close contacts.",
+      "reference": "Enfekte bir kişi 1 yıl içerisinde 10 ila 15 yakın temasa hastalık bulaştırabilir."
+    },
+    {
+      "id": "flores-0201",
+      "line": 201,
+      "source": "They include the Netherlands, with Anna Jochemsen finishing ninth in the women's standing class in the Super-G yesterday, and Finland with Katja Saarinen finishing tenth in the same event.",
+      "reference": "Anna Jochemsen'in dün Super-G kadınlar ayakta sınıfında dokuzuncu bitirmesi ile Hollanda'yı ve aynı etkinlikte onuncu bitiren Katja Saarinen ile Finlandiya'yı içermektedir."
+    },
+    {
+      "id": "flores-0301",
+      "line": 301,
+      "source": "The commission was Martelly's response to widespread anti-regime protests that started in October.",
+      "reference": "Martelly, ekim ayında başlayan ve katılımın yüksek olduğu rejim karşıtı gösterilere bu komisyonla yanıt verdi."
+    },
+    {
+      "id": "flores-0401",
+      "line": 401,
+      "source": "Though each country was 'Scandinavian', there were many differences between the people, kings, customs and history of Denmark, Sweden, Norway and Iceland.",
+      "reference": "Her ülke 'İskandinav' olsa da, Danimarka, İsveç, Norveç ve İzlanda halkları, kralları, gelenekleri ve tarihleri arasında birçok fark vardı."
+    },
+    {
+      "id": "flores-0501",
+      "line": 501,
+      "source": "Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.",
+      "reference": "Üyelerin yaşı, etnik kökeni, sınıfı, yeri ve/veya cinsiyeti nedeniyle alt kültürler ayırt edici olabilir."
+    },
+    {
+      "id": "flores-0601",
+      "line": 601,
+      "source": "Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.",
+      "reference": "Hershey ve Chase, kendilerine ait DNA'ları bir bakteriye implantasyon yöntemi ile yerleştirmek amacıyla faj ve virüslerden yararlandı."
+    },
+    {
+      "id": "flores-0701",
+      "line": 701,
+      "source": "The Arabs also brought Islam to the lands, and it took in a big way in the Comoros and Mayotte.",
+      "reference": "Araplar aynı zamanda bu topraklara İslam'ı getirdi ve Komorolarda ve Mayotte'ta çok yaygınlaştı."
+    },
+    {
+      "id": "flores-0801",
+      "line": 801,
+      "source": "They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.",
+      "reference": "Misafirleri iyi bir ruh halinde tutmak ve hoşnut etmek için genellikle özel olarak hazırlanan yiyecek, içecek ve eğlence ikramları olur."
+    },
+    {
+      "id": "flores-0901",
+      "line": 901,
+      "source": "Usually you always here the sound of tourists and vendors. The story of the sound and light is just like a story book.",
+      "reference": "Genellikle turistlerin ve satıcıların sesini her zaman duyarsınız. Sesin ve ışığın hikayesi bir hikaye kitabı gibidir."
+    }
+  ]
+}

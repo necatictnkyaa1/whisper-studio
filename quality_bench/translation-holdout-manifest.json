@@ -1,0 +1,69 @@
+{
+  "source": "https://dl.fbaipublicfiles.com/nllb/flores200_dataset.tar.gz",
+  "upstream": "https://github.com/facebookresearch/flores/tree/main/flores200",
+  "archive_sha256": "b8b0b76783024b85797e5cc75064eb83fc5288b41e9654dabc7be6ae944011f6",
+  "selection": "Ayrı doğrulama: devtest 51,151,...,951; bu satırlar motor/talimat seçimi için kullanılmaz.",
+  "license_file": "FLORES-LICENSE.txt",
+  "rows": [
+    {
+      "id": "flores-holdout-0051",
+      "line": 51,
+      "source": "The Iraq Study Group presented its report at 12.00 GMT today.",
+      "reference": "Irak Çalışma Grubu bildirisni bugün 12.00 GMT'de takdim etti."
+    },
+    {
+      "id": "flores-holdout-0151",
+      "line": 151,
+      "source": "The medical charity Mangola, Medecines Sans Frontieres and the World Health Organisation say it is the worst outbreak recorded in the country.",
+      "reference": "Tıbbi yardım kuruluşu Mangola, Sınır Tanımayan Doktorlar ve Dünya Sağlık Örgütü, bunun ülkede görülen en kötü salgın olduğunu söylüyor."
+    },
+    {
+      "id": "flores-holdout-0251",
+      "line": 251,
+      "source": "Hokuriku Electric Power Co. reported no effects from the earthquake and that the Number 1 and 2 reactors at its Shika nuclear power plant were shut down.",
+      "reference": "Hokuriku Electric Power Co., sarsıntının herhangi bir zarar vermediğini ve Shika nükleer santralindeki 1 ve 2 Numaralı reaktörlerin çalışmasının durdurulduğunu belirtti."
+    },
+    {
+      "id": "flores-holdout-0351",
+      "line": 351,
+      "source": "The cities of Harappa and Mohenjo-daro had a flush toilet in almost every house, attached to a sophisticated sewage system.",
+      "reference": "Harappa ve Mohenjo-daro şehirlerinin hemen hemen her evi sofistike bir kanalizasyon sistemine bağlı bir sifonlu tuvalete sahipti."
+    },
+    {
+      "id": "flores-holdout-0451",
+      "line": 451,
+      "source": "Ancient China had a unique way of showing different time periods; each stage of China or each family that was in power was a distinctive dynasty.",
+      "reference": "Antik Çin, farklı zaman dönemlerini göstermek konusunda özgün bir yol izlemiştir; Çin'in her dönemi veya iktidardaki her aile ayrı bir hanedanlıktır."
+    },
+    {
+      "id": "flores-holdout-0551",
+      "line": 551,
+      "source": "The job of navies has traditionally been to ensure that your country maintains the ability to move your people and goods, while at the same time, interfering with your enemy's ability to move his people and goods.",
+      "reference": "Donanmaların görevi geleneksel olarak bir yandan ülkenizin, halkınızı ve mallarınızı taşıma kabiliyetini korumak, bir yandan da düşmanın halkını ve mallarını taşıma kabiliyetine müdahale etmesini sağlamak olagelmiştir."
+    },
+    {
+      "id": "flores-holdout-0651",
+      "line": 651,
+      "source": "The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.",
+      "reference": "Ay'ın yüzeyi kayalardan ve tozdan oluşur. Ay'ın dış katmanına kabuk ismi verilir."
+    },
+    {
+      "id": "flores-holdout-0751",
+      "line": 751,
+      "source": "Argentina is well known for having one of the best polo teams and players in the world.",
+      "reference": "Arjantin, dünyanın en iyi polo takımlarından birine ve en iyi oyunculara sahip olmakla meşhurdur."
+    },
+    {
+      "id": "flores-holdout-0851",
+      "line": 851,
+      "source": "Skiing is a major travelling activity with many enthusiasts, occasionally known as \"ski bums,\" planning entire vacations around skiing at a particular location.",
+      "reference": "Kayak \"kayak müptelaları\" olarak da adlandırılan ve belirli bir yerde kayak yapmak için bütün tatillerini planlayan pek çok meraklısı için önemli bir seyahat aktivitesidir."
+    },
+    {
+      "id": "flores-holdout-0951",
+      "line": 951,
+      "source": "Also to the north visit the great Sanctuary of Our Lady of Fatima (Shrine), a place of worldwide famous Marian apparitions.",
+      "reference": "Ayrıca kuzeyde, dünyaca ünlü Meryem'in görüntüsünün gerçekleştiği bir yer olan büyük Fatima Meryem Ana Tapınağı'nı (Tapınak) ziyaret edin."
+    }
+  ]
+}

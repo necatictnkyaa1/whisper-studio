@@ -1,0 +1,74 @@
+[
+  {
+    "engine": "Argos-en-tr-1.5",
+    "split": "development",
+    "clips": 10,
+    "failures": 0,
+    "chrf_plus_plus": 51.49851853956399,
+    "signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "seconds": 0.812
+  },
+  {
+    "engine": "Qwen3.5-9B-current",
+    "split": "development",
+    "clips": 10,
+    "failures": 0,
+    "chrf_plus_plus": 55.52791839441941,
+    "signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "seconds": 223.36
+  },
+  {
+    "engine": "Argos-en-tr-1.5",
+    "split": "holdout",
+    "clips": 10,
+    "failures": 0,
+    "chrf_plus_plus": 48.29271166478409,
+    "signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "seconds": 1.423
+  },
+  {
+    "engine": "Qwen3.5-9B-current",
+    "split": "holdout",
+    "clips": 10,
+    "failures": 0,
+    "chrf_plus_plus": 56.03601974109368,
+    "signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "seconds": 246.031
+  },
+  {
+    "engine": "TranslateGemma-12B",
+    "split": "development",
+    "clips": 10,
+    "failures": 0,
+    "chrf_plus_plus": 51.20140304451558,
+    "signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "seconds": 230.891
+  },
+  {
+    "engine": "TranslateGemma-12B",
+    "split": "holdout",
+    "clips": 10,
+    "failures": 0,
+    "chrf_plus_plus": 54.55589193439424,
+    "signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "seconds": 216.703
+  },
+  {
+    "engine": "Qwen3.5-9B-plain-prompt",
+    "split": "development",
+    "clips": 10,
+    "failures": 0,
+    "chrf_plus_plus": 54.943432366018726,
+    "signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "seconds": 141.641
+  },
+  {
+    "engine": "Qwen3.5-9B-plain-prompt",
+    "split": "holdout",
+    "clips": 10,
+    "failures": 0,
+    "chrf_plus_plus": 51.66147577429038,
+    "signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "seconds": 146.234
+  }
+]

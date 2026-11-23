@@ -1,0 +1,14 @@
+{
+  "hardware": {
+    "ram_mb": 15789,
+    "available_mb": 4675,
+    "gpu_free_mb": 11933,
+    "cuda": true
+  },
+  "attempts": [
+    {
+      "model": "turbo",
+      "device": "cuda"
+    }
+  ]
+}

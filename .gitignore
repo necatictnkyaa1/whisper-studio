@@ -1,0 +1,14 @@
+.venv/
+.runtime/
+.cache/
+models/
+__pycache__/
+*.log
+kisisel/
+
+# Gerçek ders kayıtlarının transkriptleri (hoca/öğrenci konuşmaları) — public repoya girmez
+ornekler/29-09-kalite/
+ornekler/kalite-20261016/
+ders-ornek-kontrol.json
+**/ders-ornek-kontrol.json
+quality_bench/results/lecture-audit-qwen.json

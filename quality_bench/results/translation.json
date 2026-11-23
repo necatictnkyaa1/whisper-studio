@@ -1,0 +1,204 @@
+{
+  "rows": [
+    {
+      "id": "flores-0001",
+      "line": 1,
+      "source": "\"We now have 4-month-old mice that are non-diabetic that used to be diabetic,\" he added.",
+      "reference": "Daha önce diyabetik olup şimdi diyabetik olmayan 4 aylık farelerimiz var, diye ekledi.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "\"Şimdi diyabetli olmak için kullanılan 4 aylık farelerimiz var,\" diye ekledi.",
+      "seconds": 0.109,
+      "error": null
+    },
+    {
+      "id": "flores-0101",
+      "line": 101,
+      "source": "In one year's time, an infected person may infect 10 to 15 close contacts.",
+      "reference": "Enfekte bir kişi 1 yıl içerisinde 10 ila 15 yakın temasa hastalık bulaştırabilir.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Bir yıl içinde, enfekte bir kişi 10 ila 15 yakın temasa neden olabilir.",
+      "seconds": 0.063,
+      "error": null
+    },
+    {
+      "id": "flores-0201",
+      "line": 201,
+      "source": "They include the Netherlands, with Anna Jochemsen finishing ninth in the women's standing class in the Super-G yesterday, and Finland with Katja Saarinen finishing tenth in the same event.",
+      "reference": "Anna Jochemsen'in dün Super-G kadınlar ayakta sınıfında dokuzuncu bitirmesi ile Hollanda'yı ve aynı etkinlikte onuncu bitiren Katja Saarinen ile Finlandiya'yı içermektedir.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Hollanda'yı, Anna Jochemsen'in dün Super-G'de dokuzuncuyu bitirdiği ve Katja Saarinen ile Finlandiya da aynı olayda onuncuyu bitiriyor.",
+      "seconds": 0.125,
+      "error": null
+    },
+    {
+      "id": "flores-0301",
+      "line": 301,
+      "source": "The commission was Martelly's response to widespread anti-regime protests that started in October.",
+      "reference": "Martelly, ekim ayında başlayan ve katılımın yüksek olduğu rejim karşıtı gösterilere bu komisyonla yanıt verdi.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Komisyon Martelly'nin Ekim ayında başlayan yaygın anti-bölgesel protestolara verdiği yanıttı.",
+      "seconds": 0.062,
+      "error": null
+    },
+    {
+      "id": "flores-0401",
+      "line": 401,
+      "source": "Though each country was 'Scandinavian', there were many differences between the people, kings, customs and history of Denmark, Sweden, Norway and Iceland.",
+      "reference": "Her ülke 'İskandinav' olsa da, Danimarka, İsveç, Norveç ve İzlanda halkları, kralları, gelenekleri ve tarihleri arasında birçok fark vardı.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Her ülke ‘Scandinavian’ olmasına rağmen, Danimarka, İsveç, Norveç ve İzlanda halkı arasında birçok fark vardı.",
+      "seconds": 0.094,
+      "error": null
+    },
+    {
+      "id": "flores-0501",
+      "line": 501,
+      "source": "Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.",
+      "reference": "Üyelerin yaşı, etnik kökeni, sınıfı, yeri ve/veya cinsiyeti nedeniyle alt kültürler ayırt edici olabilir.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Alt kültürler, yaş, etniklik, sınıf, yer ve/veya üyelerin cinsiyeti nedeniyle ayırt edilebilir.",
+      "seconds": 0.062,
+      "error": null
+    },
+    {
+      "id": "flores-0601",
+      "line": 601,
+      "source": "Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.",
+      "reference": "Hershey ve Chase, kendilerine ait DNA'ları bir bakteriye implantasyon yöntemi ile yerleştirmek amacıyla faj ve virüslerden yararlandı.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Hershey ve Chase, ya da virüsler, kendi DNA'larını bir bakteriye implante etmek için kullandı.",
+      "seconds": 0.078,
+      "error": null
+    },
+    {
+      "id": "flores-0701",
+      "line": 701,
+      "source": "The Arabs also brought Islam to the lands, and it took in a big way in the Comoros and Mayotte.",
+      "reference": "Araplar aynı zamanda bu topraklara İslam'ı getirdi ve Komorolarda ve Mayotte'ta çok yaygınlaştı.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Araplar da İslam'ı topraklara getirdiler ve bu da Komro ve Mayotte'de büyük bir yol aldı.",
+      "seconds": 0.063,
+      "error": null
+    },
+    {
+      "id": "flores-0801",
+      "line": 801,
+      "source": "They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.",
+      "reference": "Misafirleri iyi bir ruh halinde tutmak ve hoşnut etmek için genellikle özel olarak hazırlanan yiyecek, içecek ve eğlence ikramları olur.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Genellikle özel yiyecek, içecek ve eğlence teklifleri vardır, konukları iyi bir ruh halinde tutmak ve onları önceden tutmak için.",
+      "seconds": 0.078,
+      "error": null
+    },
+    {
+      "id": "flores-0901",
+      "line": 901,
+      "source": "Usually you always here the sound of tourists and vendors. The story of the sound and light is just like a story book.",
+      "reference": "Genellikle turistlerin ve satıcıların sesini her zaman duyarsınız. Sesin ve ışığın hikayesi bir hikaye kitabı gibidir.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Genellikle her zaman burada turistlerin ve satıcıların sesi. Ses ve ışığın hikayesi sadece bir hikaye kitabı gibidir.",
+      "seconds": 0.078,
+      "error": null
+    },
+    {
+      "id": "flores-0001",
+      "line": 1,
+      "source": "\"We now have 4-month-old mice that are non-diabetic that used to be diabetic,\" he added.",
+      "reference": "Daha önce diyabetik olup şimdi diyabetik olmayan 4 aylık farelerimiz var, diye ekledi.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "\"Artık diyabetik olan ama artık diyabeti olmayan, 4 aylık farelerimiz var,\" dedi.",
+      "seconds": 27.891,
+      "error": null
+    },
+    {
+      "id": "flores-0101",
+      "line": 101,
+      "source": "In one year's time, an infected person may infect 10 to 15 close contacts.",
+      "reference": "Enfekte bir kişi 1 yıl içerisinde 10 ila 15 yakın temasa hastalık bulaştırabilir.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Bir yıl içinde, enfekte olmuş bir kişi 10 ile 15 yakın temasını enfekte edebilir.",
+      "seconds": 17.656,
+      "error": null
+    },
+    {
+      "id": "flores-0201",
+      "line": 201,
+      "source": "They include the Netherlands, with Anna Jochemsen finishing ninth in the women's standing class in the Super-G yesterday, and Finland with Katja Saarinen finishing tenth in the same event.",
+      "reference": "Anna Jochemsen'in dün Super-G kadınlar ayakta sınıfında dokuzuncu bitirmesi ile Hollanda'yı ve aynı etkinlikte onuncu bitiren Katja Saarinen ile Finlandiya'yı içermektedir.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Hollanda'yı, dün Super-G'de kadınlar pistte dördüncü sırada bitiren Anna Jochemsen'i ve Finlandiya'yı, aynı etkinlikte onuncu sırada bitiren Katja Saarinen'i içerenler arasında sayabiliriz.",
+      "seconds": 29.594,
+      "error": null
+    },
+    {
+      "id": "flores-0301",
+      "line": 301,
+      "source": "The commission was Martelly's response to widespread anti-regime protests that started in October.",
+      "reference": "Martelly, ekim ayında başlayan ve katılımın yüksek olduğu rejim karşıtı gösterilere bu komisyonla yanıt verdi.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Komisyon, Ekim'de başlayan yaygın rejim karşıtı protestolara Martelly'nin yanıtıydı.",
+      "seconds": 18.922,
+      "error": null
+    },
+    {
+      "id": "flores-0401",
+      "line": 401,
+      "source": "Though each country was 'Scandinavian', there were many differences between the people, kings, customs and history of Denmark, Sweden, Norway and Iceland.",
+      "reference": "Her ülke 'İskandinav' olsa da, Danimarka, İsveç, Norveç ve İzlanda halkları, kralları, gelenekleri ve tarihleri arasında birçok fark vardı.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Her ülke 'Kuzey Avrupa' olmasına rağmen, Danimarka, İsveç, Norveç ve İzlanda halkları, kralları, gelenekleri ve tarihleri arasında birçok fark vardı.",
+      "seconds": 24.64,
+      "error": null
+    },
+    {
+      "id": "flores-0501",
+      "line": 501,
+      "source": "Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.",
+      "reference": "Üyelerin yaşı, etnik kökeni, sınıfı, yeri ve/veya cinsiyeti nedeniyle alt kültürler ayırt edici olabilir.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Alt kültürler, üyelerin yaş, etnik köken, sınıf, konum ve/veya cinsiyeti nedeniyle ayırt edici olabilir.",
+      "seconds": 21.079,
+      "error": null
+    },
+    {
+      "id": "flores-0601",
+      "line": 601,
+      "source": "Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.",
+      "reference": "Hershey ve Chase, kendilerine ait DNA'ları bir bakteriye implantasyon yöntemi ile yerleştirmek amacıyla faj ve virüslerden yararlandı.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Hershey ve Chase, bakteriyalarına kendi DNA'larını yerleştirmek için faglar, yani virüsler kullandılar.",
+      "seconds": 20.0,
+      "error": null
+    },
+    {
+      "id": "flores-0701",
+      "line": 701,
+      "source": "The Arabs also brought Islam to the lands, and it took in a big way in the Comoros and Mayotte.",
+      "reference": "Araplar aynı zamanda bu topraklara İslam'ı getirdi ve Komorolarda ve Mayotte'ta çok yaygınlaştı.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Araplar, İslam'ı topraklara da getirdi ve Komorlar ve Mayotte'te büyük ölçüde kabul gördü.",
+      "seconds": 21.062,
+      "error": null
+    },
+    {
+      "id": "flores-0801",
+      "line": 801,
+      "source": "They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.",
+      "reference": "Misafirleri iyi bir ruh halinde tutmak ve hoşnut etmek için genellikle özel olarak hazırlanan yiyecek, içecek ve eğlence ikramları olur.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Genellikle konukların iyi bir ruh hali içinde kalmasını ve tesislerde kalmasını sağlamak için özel yemek, içecek ve eğlence teklifleri sunarlar.",
+      "seconds": 22.453,
+      "error": null
+    },
+    {
+      "id": "flores-0901",
+      "line": 901,
+      "source": "Usually you always here the sound of tourists and vendors. The story of the sound and light is just like a story book.",
+      "reference": "Genellikle turistlerin ve satıcıların sesini her zaman duyarsınız. Sesin ve ışığın hikayesi bir hikaye kitabı gibidir.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Genellikle turistlerin ve satıcıların sesini burada duyarsınız. Ses ve ışığın hikayesi, bir hikaye kitabı gibidir.",
+      "seconds": 20.063,
+      "error": null
+    }
+  ]
+}

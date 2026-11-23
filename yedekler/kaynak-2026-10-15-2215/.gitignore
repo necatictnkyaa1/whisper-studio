@@ -1,0 +1,6 @@
+.venv/
+.runtime/
+.cache/
+models/
+__pycache__/
+*.log

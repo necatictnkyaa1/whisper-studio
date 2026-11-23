@@ -1,0 +1,204 @@
+{
+  "rows": [
+    {
+      "id": "flores-holdout-0051",
+      "line": 51,
+      "source": "The Iraq Study Group presented its report at 12.00 GMT today.",
+      "reference": "Irak Çalışma Grubu bildirisni bugün 12.00 GMT'de takdim etti.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Irak Çalışma Grubu bugün 12.00 GMT'de raporunu sundu.",
+      "seconds": 0.094,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0151",
+      "line": 151,
+      "source": "The medical charity Mangola, Medecines Sans Frontieres and the World Health Organisation say it is the worst outbreak recorded in the country.",
+      "reference": "Tıbbi yardım kuruluşu Mangola, Sınır Tanımayan Doktorlar ve Dünya Sağlık Örgütü, bunun ülkede görülen en kötü salgın olduğunu söylüyor.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Tıp Faşı Mangola, Medecines Sans Frontieres ve Dünya Sağlık Örgütü ülkede kaydedilen en kötü salgın olduğunu söylüyor.",
+      "seconds": 0.172,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0251",
+      "line": 251,
+      "source": "Hokuriku Electric Power Co. reported no effects from the earthquake and that the Number 1 and 2 reactors at its Shika nuclear power plant were shut down.",
+      "reference": "Hokuriku Electric Power Co., sarsıntının herhangi bir zarar vermediğini ve Shika nükleer santralindeki 1 ve 2 Numaralı reaktörlerin çalışmasının durdurulduğunu belirtti.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Hokuriku Electric Co. Depremden etkilenmediğini ve Shika nükleer santrallerinde 1 ve 2 reaktörün kapatıldığını bildirdi.",
+      "seconds": 0.156,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0351",
+      "line": 351,
+      "source": "The cities of Harappa and Mohenjo-daro had a flush toilet in almost every house, attached to a sophisticated sewage system.",
+      "reference": "Harappa ve Mohenjo-daro şehirlerinin hemen hemen her evi sofistike bir kanalizasyon sistemine bağlı bir sifonlu tuvalete sahipti.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Harappa ve Mohenjo-daro şehirleri neredeyse her evde, sofistike bir kanalizasyon sistemine bağlı olan bir tuvalete sahipti.",
+      "seconds": 0.141,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0451",
+      "line": 451,
+      "source": "Ancient China had a unique way of showing different time periods; each stage of China or each family that was in power was a distinctive dynasty.",
+      "reference": "Antik Çin, farklı zaman dönemlerini göstermek konusunda özgün bir yol izlemiştir; Çin'in her dönemi veya iktidardaki her aile ayrı bir hanedanlıktır.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Antik Çin farklı zaman dönemlerini göstermenin eşsiz bir yolu vardı; Çin’in her aşaması ya da iktidarda olan her aile ayrı bir hanedandı.",
+      "seconds": 0.156,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0551",
+      "line": 551,
+      "source": "The job of navies has traditionally been to ensure that your country maintains the ability to move your people and goods, while at the same time, interfering with your enemy's ability to move his people and goods.",
+      "reference": "Donanmaların görevi geleneksel olarak bir yandan ülkenizin, halkınızı ve mallarınızı taşıma kabiliyetini korumak, bir yandan da düşmanın halkını ve mallarını taşıma kabiliyetine müdahale etmesini sağlamak olagelmiştir.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Navies'nin işi geleneksel olarak ülkenizin insanları ve mallarınızı hareket etme yeteneğinin korunmasıdır, aynı zamanda düşmanınızın insanlarını ve mallarını hareket etme yeteneğinizle müdahale etmektir.",
+      "seconds": 0.172,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0651",
+      "line": 651,
+      "source": "The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.",
+      "reference": "Ay'ın yüzeyi kayalardan ve tozdan oluşur. Ay'ın dış katmanına kabuk ismi verilir.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Ay'ın yüzeyi kayalar ve tozlardan yapılmıştır. Ay'ın dış tabakası, kabuk olarak adlandırılır.",
+      "seconds": 0.11,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0751",
+      "line": 751,
+      "source": "Argentina is well known for having one of the best polo teams and players in the world.",
+      "reference": "Arjantin, dünyanın en iyi polo takımlarından birine ve en iyi oyunculara sahip olmakla meşhurdur.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Arjantin, dünyadaki en iyi deniz takımlarından ve oyunculardan birine sahip olmak için iyi biliniyor.",
+      "seconds": 0.093,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0851",
+      "line": 851,
+      "source": "Skiing is a major travelling activity with many enthusiasts, occasionally known as \"ski bums,\" planning entire vacations around skiing at a particular location.",
+      "reference": "Kayak \"kayak müptelaları\" olarak da adlandırılan ve belirli bir yerde kayak yapmak için bütün tatillerini planlayan pek çok meraklısı için önemli bir seyahat aktivitesidir.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Kayak birçok meraklı ile büyük bir seyahat aktivitesidir, bazen \"ski bums\" olarak bilinir, belirli bir yerde kayakla ilgili tüm tatilleri planlama.",
+      "seconds": 0.157,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0951",
+      "line": 951,
+      "source": "Also to the north visit the great Sanctuary of Our Lady of Fatima (Shrine), a place of worldwide famous Marian apparitions.",
+      "reference": "Ayrıca kuzeyde, dünyaca ünlü Meryem'in görüntüsünün gerçekleştiği bir yer olan büyük Fatima Meryem Ana Tapınağı'nı (Tapınak) ziyaret edin.",
+      "engine": "Argos-en-tr-1.5",
+      "text": "Ayrıca kuzeye Fatima'nın Büyük Mezarlarını ziyaret edin (Shrine), dünyaca ünlü Marian apparitions'in bir yeri.",
+      "seconds": 0.172,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0051",
+      "line": 51,
+      "source": "The Iraq Study Group presented its report at 12.00 GMT today.",
+      "reference": "Irak Çalışma Grubu bildirisni bugün 12.00 GMT'de takdim etti.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Irak Çalışma Grubu, bugün saat 12.00 GMT'de raporunu sundu.",
+      "seconds": 30.484,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0151",
+      "line": 151,
+      "source": "The medical charity Mangola, Medecines Sans Frontieres and the World Health Organisation say it is the worst outbreak recorded in the country.",
+      "reference": "Tıbbi yardım kuruluşu Mangola, Sınır Tanımayan Doktorlar ve Dünya Sağlık Örgütü, bunun ülkede görülen en kötü salgın olduğunu söylüyor.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Tıbbi yardım kuruluşu Mangola, Medecines Sans Frontieres ve Dünya Sağlık Örgütü, bunun ülkede kaydedilen en kötü salgın olduğunu söylüyor.",
+      "seconds": 23.203,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0251",
+      "line": 251,
+      "source": "Hokuriku Electric Power Co. reported no effects from the earthquake and that the Number 1 and 2 reactors at its Shika nuclear power plant were shut down.",
+      "reference": "Hokuriku Electric Power Co., sarsıntının herhangi bir zarar vermediğini ve Shika nükleer santralindeki 1 ve 2 Numaralı reaktörlerin çalışmasının durdurulduğunu belirtti.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Hokuriku Elektrik Şirketi, depremin hiçbir etkisi olmadığını ve Shika nükleer santralindeki 1 ve 2 numaralı reaktörlerin kapatıldığını bildirdi.",
+      "seconds": 25.75,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0351",
+      "line": 351,
+      "source": "The cities of Harappa and Mohenjo-daro had a flush toilet in almost every house, attached to a sophisticated sewage system.",
+      "reference": "Harappa ve Mohenjo-daro şehirlerinin hemen hemen her evi sofistike bir kanalizasyon sistemine bağlı bir sifonlu tuvalete sahipti.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Harappa ve Mohenjo-daro şehirlerinin neredeyse her evinde, gelişmiş bir kanalizasyon sistemine bağlı çamur tuvaletler vardı.",
+      "seconds": 22.453,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0451",
+      "line": 451,
+      "source": "Ancient China had a unique way of showing different time periods; each stage of China or each family that was in power was a distinctive dynasty.",
+      "reference": "Antik Çin, farklı zaman dönemlerini göstermek konusunda özgün bir yol izlemiştir; Çin'in her dönemi veya iktidardaki her aile ayrı bir hanedanlıktır.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Eski Çin, farklı zaman dönemlerini göstermek için benzersiz bir yöntem kullanıyordu; Çin'in her aşaması veya iktidardaki her aile, ayrı bir hanedanlık idi.",
+      "seconds": 25.329,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0551",
+      "line": 551,
+      "source": "The job of navies has traditionally been to ensure that your country maintains the ability to move your people and goods, while at the same time, interfering with your enemy's ability to move his people and goods.",
+      "reference": "Donanmaların görevi geleneksel olarak bir yandan ülkenizin, halkınızı ve mallarınızı taşıma kabiliyetini korumak, bir yandan da düşmanın halkını ve mallarını taşıma kabiliyetine müdahale etmesini sağlamak olagelmiştir.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Donanmaların geleneksel görevi, ülkenizin halkını ve mallarını taşıma yeteneğini korurken aynı zamanda düşmanın halkını ve mallarını taşıma yeteneğini engellemesini sağlamaktır.",
+      "seconds": 27.625,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0651",
+      "line": 651,
+      "source": "The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.",
+      "reference": "Ay'ın yüzeyi kayalardan ve tozdan oluşur. Ay'ın dış katmanına kabuk ismi verilir.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Ay'ın yüzeyi kaya ve toştan oluşur. Ay'ın dış katmanı kabuk olarak adlandırılır.",
+      "seconds": 19.671,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0751",
+      "line": 751,
+      "source": "Argentina is well known for having one of the best polo teams and players in the world.",
+      "reference": "Arjantin, dünyanın en iyi polo takımlarından birine ve en iyi oyunculara sahip olmakla meşhurdur.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Arjantin, dünyadaki en iyi polo takımlarından ve oyuncularından biri olmasıyla bilinir.",
+      "seconds": 18.313,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0851",
+      "line": 851,
+      "source": "Skiing is a major travelling activity with many enthusiasts, occasionally known as \"ski bums,\" planning entire vacations around skiing at a particular location.",
+      "reference": "Kayak \"kayak müptelaları\" olarak da adlandırılan ve belirli bir yerde kayak yapmak için bütün tatillerini planlayan pek çok meraklısı için önemli bir seyahat aktivitesidir.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Kayak, birçok tutkunu tarafından yapılan ve belirli bir konumda kayak yapmak etrafında tüm tatilleri planlayan önemli bir seyahat aktivitesidir, bazen \"kayakçı\" olarak da bilinir.",
+      "seconds": 27.156,
+      "error": null
+    },
+    {
+      "id": "flores-holdout-0951",
+      "line": 951,
+      "source": "Also to the north visit the great Sanctuary of Our Lady of Fatima (Shrine), a place of worldwide famous Marian apparitions.",
+      "reference": "Ayrıca kuzeyde, dünyaca ünlü Meryem'in görüntüsünün gerçekleştiği bir yer olan büyük Fatima Meryem Ana Tapınağı'nı (Tapınak) ziyaret edin.",
+      "engine": "Qwen3.5-9B-current",
+      "text": "Ayrıca kuzeyde, dünyaca ünlü Meryem Ana görünlüklerinin (Shrine) gerçekleştiği büyük Fatima Kızmarı (Kutsal Yer) ziyaret edilebilir.",
+      "seconds": 26.047,
+      "error": null
+    }
+  ]
+}

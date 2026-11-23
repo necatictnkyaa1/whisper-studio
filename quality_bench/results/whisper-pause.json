@@ -1,0 +1,1186 @@
+{
+  "model": "Whisper Large-v3",
+  "mode": "pause",
+  "device": "cuda",
+  "compute_type": "int8_float16",
+  "manifest_sha256": "32f9578cdcef3c16f9ff59a1ea950863c771a3de58b7a0d2fce1b69881ff66b2",
+  "load_seconds": 12.796,
+  "rows": [
+    {
+      "id": "fleurs-tr-01",
+      "group": "fleurs-tr",
+      "language": "tr",
+      "duration": 14.16,
+      "derived": false,
+      "reference": "Aynı ay, başka bir yolcu uçağı Meşhed'deki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu.",
+      "text": "Aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve 17 kişinin ölümüne neden oldu.",
+      "seconds": 6.625,
+      "segments": [
+        {
+          "start": 2.1799999999999984,
+          "end": 11.14,
+          "text": "Aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve 17 kişinin ölümüne neden oldu.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 2,
+        "deletions": 1,
+        "insertions": 0,
+        "errors": 3,
+        "reference_words": 20,
+        "operations": [
+          {
+            "type": "substitution",
+            "reference": "meşheddeki",
+            "hypothesis": "meşetteki"
+          },
+          {
+            "type": "deletion",
+            "reference": "on"
+          },
+          {
+            "type": "substitution",
+            "reference": "yedi",
+            "hypothesis": "17"
+          }
+        ],
+        "normalized_reference": "aynı ay başka bir yolcu uçağı meşheddeki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu",
+        "normalized_hypothesis": "aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve 17 kişinin ölümüne neden oldu",
+        "wer": 0.15,
+        "char_errors": 9,
+        "reference_chars": 94,
+        "cer": 0.09574468085106383
+      }
+    },
+    {
+      "id": "fleurs-tr-02",
+      "group": "fleurs-tr",
+      "language": "tr",
+      "duration": 18.6,
+      "derived": false,
+      "reference": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen ASUS Eee PC, 2007 Taipei BT Ayında sıcak bir gündem maddesi haline geldi.",
+      "text": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen Asus EEE PC, 2007 Taipei BT ayında sıcak bir gündem maddesi haline geldi.",
+      "seconds": 3.453,
+      "segments": [
+        {
+          "start": 1.7599999999999993,
+          "end": 15.58,
+          "text": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen Asus EEE PC, 2007 Taipei BT ayında sıcak bir gündem maddesi haline geldi.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_words": 25,
+        "operations": [],
+        "normalized_reference": "daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen asus eee pc 2007 taipei bt ayında sıcak bir gündem maddesi haline geldi",
+        "normalized_hypothesis": "daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen asus eee pc 2007 taipei bt ayında sıcak bir gündem maddesi haline geldi",
+        "wer": 0.0,
+        "char_errors": 0,
+        "reference_chars": 137,
+        "cer": 0.0
+      }
+    },
+    {
+      "id": "fleurs-tr-03",
+      "group": "fleurs-tr",
+      "language": "tr",
+      "duration": 16.8,
+      "derived": false,
+      "reference": "Singapur Başbakan Yardımcısı Wong Kan Seng tarafından karşılandı ve Singapur Başbakanı Lee Hsien Loong ile ticaret ve terörizm konularını görüştü.",
+      "text": "Singapur Başbakan Yardımcısı Wong Kang Seng tarafından karşılandı ve Singapur Başbakanı Le Sen Long ile ticaret ve terörizm konularını görüştü.",
+      "seconds": 3.266,
+      "segments": [
+        {
+          "start": 1.3399999999999999,
+          "end": 13.76,
+          "text": "Singapur Başbakan Yardımcısı Wong Kang Seng tarafından karşılandı ve Singapur Başbakanı Le Sen Long ile ticaret ve terörizm konularını görüştü.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 4,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 4,
+        "reference_words": 20,
+        "operations": [
+          {
+            "type": "substitution",
+            "reference": "kan",
+            "hypothesis": "kang"
+          },
+          {
+            "type": "substitution",
+            "reference": "lee",
+            "hypothesis": "le"
+          },
+          {
+            "type": "substitution",
+            "reference": "hsien",
+            "hypothesis": "sen"
+          },
+          {
+            "type": "substitution",
+            "reference": "loong",
+            "hypothesis": "long"
+          }
+        ],
+        "normalized_reference": "singapur başbakan yardımcısı wong kan seng tarafından karşılandı ve singapur başbakanı lee hsien loong ile ticaret ve terörizm konularını görüştü",
+        "normalized_hypothesis": "singapur başbakan yardımcısı wong kang seng tarafından karşılandı ve singapur başbakanı le sen long ile ticaret ve terörizm konularını görüştü",
+        "wer": 0.2,
+        "char_errors": 5,
+        "reference_chars": 126,
+        "cer": 0.03968253968253968
+      }
+    },
+    {
+      "id": "fleurs-tr-04",
+      "group": "fleurs-tr",
+      "language": "tr",
+      "duration": 11.04,
+      "derived": false,
+      "reference": "Video görüntülerinden faydalanılması, mimiklerin yorumlanmasında, birkaç milisaniye devam eden yüz hareketlerinde önemli keşiflere yol açmıştır.",
+      "text": "Video görüntülerinden faydalanılması mimiklerin yorumlanmasında birkaç milisaniye devam eden yüz hareketlerinde önemli keşiflere yol açmıştır.",
+      "seconds": 2.89,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 9.4,
+          "text": "Video görüntülerinden faydalanılması mimiklerin yorumlanmasında birkaç milisaniye devam eden yüz hareketlerinde önemli keşiflere yol açmıştır.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_words": 15,
+        "operations": [],
+        "normalized_reference": "video görüntülerinden faydalanılması mimiklerin yorumlanmasında birkaç milisaniye devam eden yüz hareketlerinde önemli keşiflere yol açmıştır",
+        "normalized_hypothesis": "video görüntülerinden faydalanılması mimiklerin yorumlanmasında birkaç milisaniye devam eden yüz hareketlerinde önemli keşiflere yol açmıştır",
+        "wer": 0.0,
+        "char_errors": 0,
+        "reference_chars": 127,
+        "cer": 0.0
+      }
+    },
+    {
+      "id": "fleurs-tr-05",
+      "group": "fleurs-tr",
+      "language": "tr",
+      "duration": 5.28,
+      "derived": false,
+      "reference": "Bu çiftler bebekleri için bir evlat edinme planı yapmayı seçebilirler.",
+      "text": "Bu çiftler bebekleri için bir evlat edinme planı yapmayı seçebilirler.",
+      "seconds": 1.938,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.18,
+          "text": "Bu çiftler bebekleri için bir evlat edinme planı yapmayı seçebilirler.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_words": 10,
+        "operations": [],
+        "normalized_reference": "bu çiftler bebekleri için bir evlat edinme planı yapmayı seçebilirler",
+        "normalized_hypothesis": "bu çiftler bebekleri için bir evlat edinme planı yapmayı seçebilirler",
+        "wer": 0.0,
+        "char_errors": 0,
+        "reference_chars": 60,
+        "cer": 0.0
+      }
+    },
+    {
+      "id": "media-tr-01",
+      "group": "media-tr",
+      "language": "tr",
+      "duration": 14.5,
+      "derived": false,
+      "reference": "kısıtlamalarına geri mi dönsek deniliyor şimdi ekonomik tedbirler bunu hani biz neleri geride bıraktık on bir mart'ta birinci vaka açıklandıktan sonra neleri yaşadık biz kepenkler indi dükkanlar kapandı işte günlük o",
+      "text": "...kısıtlamalarına geri mi dönsek deniliyor. Şimdi ekonomik tedbirler, biz neleri geride bıraktık? 11 Mart'ta birinci vaka açıklandıktan sonra neleri yaşadık biz? Kepenkler indi, dükkanlar kapandı, günlük otobüsler...",
+      "seconds": 4.594,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.06,
+          "text": "...kısıtlamalarına geri mi dönsek deniliyor. Şimdi ekonomik tedbirler, biz neleri geride bıraktık?",
+          "review": false
+        },
+        {
+          "start": 6.08,
+          "end": 10.14,
+          "text": "11 Mart'ta birinci vaka açıklandıktan sonra neleri yaşadık biz?",
+          "review": false
+        },
+        {
+          "start": 10.32,
+          "end": 14.38,
+          "text": "Kepenkler indi, dükkanlar kapandı, günlük otobüsler...",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 2,
+        "deletions": 4,
+        "insertions": 0,
+        "errors": 6,
+        "reference_words": 31,
+        "operations": [
+          {
+            "type": "deletion",
+            "reference": "bunu"
+          },
+          {
+            "type": "deletion",
+            "reference": "hani"
+          },
+          {
+            "type": "deletion",
+            "reference": "on"
+          },
+          {
+            "type": "substitution",
+            "reference": "bir",
+            "hypothesis": "11"
+          },
+          {
+            "type": "deletion",
+            "reference": "işte"
+          },
+          {
+            "type": "substitution",
+            "reference": "o",
+            "hypothesis": "otobüsler"
+          }
+        ],
+        "normalized_reference": "kısıtlamalarına geri mi dönsek deniliyor şimdi ekonomik tedbirler bunu hani biz neleri geride bıraktık on bir martta birinci vaka açıklandıktan sonra neleri yaşadık biz kepenkler indi dükkanlar kapandı işte günlük o",
+        "normalized_hypothesis": "kısıtlamalarına geri mi dönsek deniliyor şimdi ekonomik tedbirler biz neleri geride bıraktık 11 martta birinci vaka açıklandıktan sonra neleri yaşadık biz kepenkler indi dükkanlar kapandı günlük otobüsler",
+        "wer": 0.1935483870967742,
+        "char_errors": 25,
+        "reference_chars": 185,
+        "cer": 0.13513513513513514
+      }
+    },
+    {
+      "id": "media-tr-02",
+      "group": "media-tr",
+      "language": "tr",
+      "duration": 14.7,
+      "derived": false,
+      "reference": "hakkari'de iki köy karantina altına alındı kocaeli'nin dilovası ilçesinde asker uğurlamasına katılan aynı aileden üç kişinin korona virüs testleri pozitif çıkınca uğurlamaya katılan yakınlarının da aralarında olduğu yüz elli kişinin",
+      "text": "Hakkari'de iki köy karantina altına alındı. Kocaeli'nin Dilovası ilçesinde asker uğurlamasına katılan aynı aileden 3 kişinin koronavirüs testleri pozitif çıkınca uğurlamaya katılan yakınlarının da aralarında olduğu 150 kişinin...",
+      "seconds": 4.437,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.02,
+          "text": "Hakkari'de iki köy karantina altına alındı.",
+          "review": false
+        },
+        {
+          "start": 3.02,
+          "end": 14.12,
+          "text": "Kocaeli'nin Dilovası ilçesinde asker uğurlamasına katılan aynı aileden 3 kişinin koronavirüs testleri pozitif çıkınca uğurlamaya katılan yakınlarının da aralarında olduğu 150 kişinin...",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 3,
+        "deletions": 2,
+        "insertions": 0,
+        "errors": 5,
+        "reference_words": 30,
+        "operations": [
+          {
+            "type": "substitution",
+            "reference": "üç",
+            "hypothesis": "3"
+          },
+          {
+            "type": "deletion",
+            "reference": "korona"
+          },
+          {
+            "type": "substitution",
+            "reference": "virüs",
+            "hypothesis": "koronavirüs"
+          },
+          {
+            "type": "deletion",
+            "reference": "yüz"
+          },
+          {
+            "type": "substitution",
+            "reference": "elli",
+            "hypothesis": "150"
+          }
+        ],
+        "normalized_reference": "hakkaride iki köy karantina altına alındı kocaelinin dilovası ilçesinde asker uğurlamasına katılan aynı aileden üç kişinin korona virüs testleri pozitif çıkınca uğurlamaya katılan yakınlarının da aralarında olduğu yüz elli kişinin",
+        "normalized_hypothesis": "hakkaride iki köy karantina altına alındı kocaelinin dilovası ilçesinde asker uğurlamasına katılan aynı aileden 3 kişinin koronavirüs testleri pozitif çıkınca uğurlamaya katılan yakınlarının da aralarında olduğu 150 kişinin",
+        "wer": 0.16666666666666666,
+        "char_errors": 9,
+        "reference_chars": 201,
+        "cer": 0.04477611940298507
+      }
+    },
+    {
+      "id": "media-tr-03",
+      "group": "media-tr",
+      "language": "tr",
+      "duration": 14.7,
+      "derived": false,
+      "reference": "kaybedecek tek bir günü dahi yoktur kendi yolumuzda devam etmekten başka çaremiz kalmamıştır cumhurbaşkanı erdoğan'ın meclis açılışına verdiği mesajın ardından gözler sınırda ankara harekat kararlılığını sürdürürken",
+      "text": "Bunu da kaybedecek tek bir günü dahi yoktur. Kendi yolumuzda devam etmekten başka çaremiz kalmamıştır. Cumhurbaşkanı Erdoğan'ın meclis açılışına verdiği mesajın ardından gözler sınırda Ankara harekat kararlılığını sürdürürken",
+      "seconds": 4.735,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.34,
+          "text": "Bunu da kaybedecek tek bir günü dahi yoktur.",
+          "review": false
+        },
+        {
+          "start": 4.42,
+          "end": 7.76,
+          "text": "Kendi yolumuzda devam etmekten başka çaremiz kalmamıştır.",
+          "review": false
+        },
+        {
+          "start": 7.92,
+          "end": 14.06,
+          "text": "Cumhurbaşkanı Erdoğan'ın meclis açılışına verdiği mesajın ardından gözler sınırda Ankara harekat kararlılığını sürdürürken",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 2,
+        "errors": 2,
+        "reference_words": 26,
+        "operations": [
+          {
+            "type": "insertion",
+            "hypothesis": "bunu"
+          },
+          {
+            "type": "insertion",
+            "hypothesis": "da"
+          }
+        ],
+        "normalized_reference": "kaybedecek tek bir günü dahi yoktur kendi yolumuzda devam etmekten başka çaremiz kalmamıştır cumhurbaşkanı erdoğanın meclis açılışına verdiği mesajın ardından gözler sınırda ankara harekat kararlılığını sürdürürken",
+        "normalized_hypothesis": "bunu da kaybedecek tek bir günü dahi yoktur kendi yolumuzda devam etmekten başka çaremiz kalmamıştır cumhurbaşkanı erdoğanın meclis açılışına verdiği mesajın ardından gözler sınırda ankara harekat kararlılığını sürdürürken",
+        "wer": 0.07692307692307693,
+        "char_errors": 6,
+        "reference_chars": 189,
+        "cer": 0.031746031746031744
+      }
+    },
+    {
+      "id": "media-tr-04",
+      "group": "media-tr",
+      "language": "tr",
+      "duration": 14.6,
+      "derived": false,
+      "reference": "ha bu da bizce gerçek değil biz bunun da bir kumpas olduğunu düşünüyoruz oda tv haber müdür müyesser yıldız askeri casusluktan gözaltına alınmıştı ama savcılık ifadesinden sonra mahkemeye gizli kalması gereken bilgileri açıklamak suçlamasıyla sevk",
+      "text": "Ha bu da bizce gerçek değil. Biz bunun da bir kumpası olduğunu düşünüyoruz. Oda TV haber müdürü Müesser Yıldız askeri casusluktan gözaltına alınmıştı ama savcılık ifadesinden sonra mahkemeye gizli kalması gereken bilgileri açıklamak suçlamasıyla sevk edildi.",
+      "seconds": 4.297,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.92,
+          "text": "Ha bu da bizce gerçek değil. Biz bunun da bir kumpası olduğunu düşünüyoruz.",
+          "review": false
+        },
+        {
+          "start": 5.06,
+          "end": 14.12,
+          "text": "Oda TV haber müdürü Müesser Yıldız askeri casusluktan gözaltına alınmıştı ama savcılık ifadesinden sonra mahkemeye gizli kalması gereken bilgileri açıklamak suçlamasıyla sevk edildi.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 3,
+        "deletions": 0,
+        "insertions": 1,
+        "errors": 4,
+        "reference_words": 35,
+        "operations": [
+          {
+            "type": "substitution",
+            "reference": "kumpas",
+            "hypothesis": "kumpası"
+          },
+          {
+            "type": "substitution",
+            "reference": "müdür",
+            "hypothesis": "müdürü"
+          },
+          {
+            "type": "substitution",
+            "reference": "müyesser",
+            "hypothesis": "müesser"
+          },
+          {
+            "type": "insertion",
+            "hypothesis": "edildi"
+          }
+        ],
+        "normalized_reference": "ha bu da bizce gerçek değil biz bunun da bir kumpas olduğunu düşünüyoruz oda tv haber müdür müyesser yıldız askeri casusluktan gözaltına alınmıştı ama savcılık ifadesinden sonra mahkemeye gizli kalması gereken bilgileri açıklamak suçlamasıyla sevk",
+        "normalized_hypothesis": "ha bu da bizce gerçek değil biz bunun da bir kumpası olduğunu düşünüyoruz oda tv haber müdürü müesser yıldız askeri casusluktan gözaltına alınmıştı ama savcılık ifadesinden sonra mahkemeye gizli kalması gereken bilgileri açıklamak suçlamasıyla sevk edildi",
+        "wer": 0.11428571428571428,
+        "char_errors": 9,
+        "reference_chars": 213,
+        "cer": 0.04225352112676056
+      }
+    },
+    {
+      "id": "media-tr-05",
+      "group": "media-tr",
+      "language": "tr",
+      "duration": 14.5,
+      "derived": false,
+      "reference": "kaldırılan tedbirlerden sonraki yansımaları görüyoruz evet asıl daha da riskte olan geçtiğimiz hafta sonu daha büyük kısıtlamalar kaldırdık altmış beş yaş üstü insanların sokağa çıkmalarını ve  diğer bazı",
+      "text": "...kaldırılan tedbirlerden sonraki yansımaları görüyoruz. Asıl daha da riskli olan geçtiğimiz hafta sonu. Daha büyük ısıtmalar kaldırdık. 65 yaş üstü insanların sokağa çıkmalarını ve diğer bazı tedbirlerini...",
+      "seconds": 4.703,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.34,
+          "text": "...kaldırılan tedbirlerden sonraki yansımaları görüyoruz.",
+          "review": false
+        },
+        {
+          "start": 4.36,
+          "end": 7.7,
+          "text": "Asıl daha da riskli olan geçtiğimiz hafta sonu.",
+          "review": false
+        },
+        {
+          "start": 7.7,
+          "end": 9.56,
+          "text": "Daha büyük ısıtmalar kaldırdık.",
+          "review": false
+        },
+        {
+          "start": 9.56,
+          "end": 14.38,
+          "text": "65 yaş üstü insanların sokağa çıkmalarını ve diğer bazı tedbirlerini...",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 3,
+        "deletions": 2,
+        "insertions": 1,
+        "errors": 6,
+        "reference_words": 28,
+        "operations": [
+          {
+            "type": "deletion",
+            "reference": "evet"
+          },
+          {
+            "type": "substitution",
+            "reference": "riskte",
+            "hypothesis": "riskli"
+          },
+          {
+            "type": "substitution",
+            "reference": "kısıtlamalar",
+            "hypothesis": "ısıtmalar"
+          },
+          {
+            "type": "deletion",
+            "reference": "altmış"
+          },
+          {
+            "type": "substitution",
+            "reference": "beş",
+            "hypothesis": "65"
+          },
+          {
+            "type": "insertion",
+            "hypothesis": "tedbirlerini"
+          }
+        ],
+        "normalized_reference": "kaldırılan tedbirlerden sonraki yansımaları görüyoruz evet asıl daha da riskte olan geçtiğimiz hafta sonu daha büyük kısıtlamalar kaldırdık altmış beş yaş üstü insanların sokağa çıkmalarını ve diğer bazı",
+        "normalized_hypothesis": "kaldırılan tedbirlerden sonraki yansımaları görüyoruz asıl daha da riskli olan geçtiğimiz hafta sonu daha büyük ısıtmalar kaldırdık 65 yaş üstü insanların sokağa çıkmalarını ve diğer bazı tedbirlerini",
+        "wer": 0.21428571428571427,
+        "char_errors": 30,
+        "reference_chars": 176,
+        "cer": 0.17045454545454544
+      }
+    },
+    {
+      "id": "libri-clean-01",
+      "group": "libri-clean",
+      "language": "en",
+      "duration": 3.855,
+      "derived": false,
+      "reference": "THE DELAWARES ARE CHILDREN OF THE TORTOISE AND THEY OUTSTRIP THE DEER",
+      "text": "The delawares are children of the tortoise, and they outstrip the deer.",
+      "seconds": 1.828,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.0,
+          "text": "The delawares are children of the tortoise, and they outstrip the deer.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_words": 12,
+        "operations": [],
+        "normalized_reference": "the delawares are children of the tortoise and they outstrip the deer",
+        "normalized_hypothesis": "the delawares are children of the tortoise and they outstrip the deer",
+        "wer": 0.0,
+        "char_errors": 0,
+        "reference_chars": 58,
+        "cer": 0.0
+      }
+    },
+    {
+      "id": "libri-clean-02",
+      "group": "libri-clean",
+      "language": "en",
+      "duration": 4.745,
+      "derived": false,
+      "reference": "YOU SEE MY FRIEND IT'S AN ISSUE OF THE MONSTER THE NOTORIOUS NARWHALE",
+      "text": "you see my friend it's an issue of the monster the notorious narwhal",
+      "seconds": 1.5,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.38,
+          "text": "you see my friend it's an issue of the monster the notorious narwhal",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 1,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 1,
+        "reference_words": 13,
+        "operations": [
+          {
+            "type": "substitution",
+            "reference": "narwhale",
+            "hypothesis": "narwhal"
+          }
+        ],
+        "normalized_reference": "you see my friend its an issue of the monster the notorious narwhale",
+        "normalized_hypothesis": "you see my friend its an issue of the monster the notorious narwhal",
+        "wer": 0.07692307692307693,
+        "char_errors": 1,
+        "reference_chars": 56,
+        "cer": 0.017857142857142856
+      }
+    },
+    {
+      "id": "libri-clean-03",
+      "group": "libri-clean",
+      "language": "en",
+      "duration": 8.07,
+      "derived": false,
+      "reference": "THE ARIANS TOOK CHRIST FOR A NOBLE AND PERFECT CREATURE SUPERIOR EVEN TO THE ANGELS BECAUSE BY HIM GOD CREATED HEAVEN AND EARTH",
+      "text": "the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth Earth.",
+      "seconds": 2.735,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 7.52,
+          "text": "the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth Earth.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 1,
+        "errors": 1,
+        "reference_words": 23,
+        "operations": [
+          {
+            "type": "insertion",
+            "hypothesis": "earth"
+          }
+        ],
+        "normalized_reference": "the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth",
+        "normalized_hypothesis": "the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth earth",
+        "wer": 0.043478260869565216,
+        "char_errors": 5,
+        "reference_chars": 105,
+        "cer": 0.047619047619047616
+      }
+    },
+    {
+      "id": "libri-clean-04",
+      "group": "libri-clean",
+      "language": "en",
+      "duration": 8.875,
+      "derived": false,
+      "reference": "IN THE COURT YARD SOME OF THE MERRY CHILDREN WERE PLAYING WHO HAD DANCED AT CHRISTMAS ROUND THE FIR TREE AND WERE SO GLAD AT THE SIGHT OF HIM",
+      "text": "in the courtyard some of the merry children were playing who had danced at christmas round the fir-tree and were so glad at the sight of him We'll be right back.",
+      "seconds": 3.078,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 8.84,
+          "text": "in the courtyard some of the merry children were playing who had danced at christmas round the fir-tree and were so glad at the sight of him We'll be right back.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 1,
+        "deletions": 1,
+        "insertions": 4,
+        "errors": 6,
+        "reference_words": 29,
+        "operations": [
+          {
+            "type": "deletion",
+            "reference": "court"
+          },
+          {
+            "type": "substitution",
+            "reference": "yard",
+            "hypothesis": "courtyard"
+          },
+          {
+            "type": "insertion",
+            "hypothesis": "well"
+          },
+          {
+            "type": "insertion",
+            "hypothesis": "be"
+          },
+          {
+            "type": "insertion",
+            "hypothesis": "right"
+          },
+          {
+            "type": "insertion",
+            "hypothesis": "back"
+          }
+        ],
+        "normalized_reference": "in the court yard some of the merry children were playing who had danced at christmas round the fir tree and were so glad at the sight of him",
+        "normalized_hypothesis": "in the courtyard some of the merry children were playing who had danced at christmas round the fir tree and were so glad at the sight of him well be right back",
+        "wer": 0.20689655172413793,
+        "char_errors": 15,
+        "reference_chars": 113,
+        "cer": 0.13274336283185842
+      }
+    },
+    {
+      "id": "libri-clean-05",
+      "group": "libri-clean",
+      "language": "en",
+      "duration": 6.995,
+      "derived": false,
+      "reference": "IT IS SUCH A NOBLE AMBITION THAT IT IS A PITY IT HAS USUALLY SUCH A SHALLOW FOUNDATION",
+      "text": "it is such a noble ambition that it is a pity it has usually such a shallow foundation recommendation.",
+      "seconds": 2.297,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.26,
+          "text": "it is such a noble ambition that it is a pity it has usually such a shallow foundation recommendation.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 1,
+        "errors": 1,
+        "reference_words": 18,
+        "operations": [
+          {
+            "type": "insertion",
+            "hypothesis": "recommendation"
+          }
+        ],
+        "normalized_reference": "it is such a noble ambition that it is a pity it has usually such a shallow foundation",
+        "normalized_hypothesis": "it is such a noble ambition that it is a pity it has usually such a shallow foundation recommendation",
+        "wer": 0.05555555555555555,
+        "char_errors": 14,
+        "reference_chars": 69,
+        "cer": 0.2028985507246377
+      }
+    },
+    {
+      "id": "libri-other-01",
+      "group": "libri-other",
+      "language": "en",
+      "duration": 3.14,
+      "derived": false,
+      "reference": "YES SIR SAID THE MAN HUMBLY SHALL I GO AT ONCE SIR",
+      "text": "yes sir said the man humbly shall i go at once sir",
+      "seconds": 2.266,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.44,
+          "text": "yes sir said the man humbly shall i go at once sir",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_words": 12,
+        "operations": [],
+        "normalized_reference": "yes sir said the man humbly shall i go at once sir",
+        "normalized_hypothesis": "yes sir said the man humbly shall i go at once sir",
+        "wer": 0.0,
+        "char_errors": 0,
+        "reference_chars": 39,
+        "cer": 0.0
+      }
+    },
+    {
+      "id": "libri-other-02",
+      "group": "libri-other",
+      "language": "en",
+      "duration": 8.265,
+      "derived": false,
+      "reference": "A WOMAN WHO YEARNS FOR THE REGARD OF ALL MEN AND MAKES LOVE A TOY EASILY LESSENS THE DEMANDS SHE IMPOSES UPON INDIVIDUALS",
+      "text": "A woman who yearns for the regard of all men and makes love a toy easily lessens the demands she imposes upon individuals.",
+      "seconds": 2.36,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 7.28,
+          "text": "A woman who yearns for the regard of all men and makes love a toy easily lessens the demands she imposes upon individuals.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_words": 23,
+        "operations": [],
+        "normalized_reference": "a woman who yearns for the regard of all men and makes love a toy easily lessens the demands she imposes upon individuals",
+        "normalized_hypothesis": "a woman who yearns for the regard of all men and makes love a toy easily lessens the demands she imposes upon individuals",
+        "wer": 0.0,
+        "char_errors": 0,
+        "reference_chars": 99,
+        "cer": 0.0
+      }
+    },
+    {
+      "id": "libri-other-03",
+      "group": "libri-other",
+      "language": "en",
+      "duration": 7.545,
+      "derived": false,
+      "reference": "EVERY TIME I SAW ANY ONE WITH A BEAD ON ME I WOULD DROP OFF MY HORSE AND TRY TO DRIVE THE SHOOTER INSIDE BUT I COULD NOT SEE IN EVERY DIRECTION",
+      "text": "every time i saw any one with a bead on me i would drop off my horse and try to drive the shooter inside but i could not see in every direction direction.",
+      "seconds": 2.781,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 7.26,
+          "text": "every time i saw any one with a bead on me i would drop off my horse and try to drive the shooter inside but i could not see in every direction direction.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 1,
+        "errors": 1,
+        "reference_words": 32,
+        "operations": [
+          {
+            "type": "insertion",
+            "hypothesis": "direction"
+          }
+        ],
+        "normalized_reference": "every time i saw any one with a bead on me i would drop off my horse and try to drive the shooter inside but i could not see in every direction",
+        "normalized_hypothesis": "every time i saw any one with a bead on me i would drop off my horse and try to drive the shooter inside but i could not see in every direction direction",
+        "wer": 0.03125,
+        "char_errors": 9,
+        "reference_chars": 112,
+        "cer": 0.08035714285714286
+      }
+    },
+    {
+      "id": "libri-other-04",
+      "group": "libri-other",
+      "language": "en",
+      "duration": 6.57,
+      "derived": false,
+      "reference": "REMEMBEREST THOU THE MAGAZINE OF FUEL THAT IS STORED BENEATH THESE APARTMENTS WOMAN",
+      "text": "rememberest thou the magazine of fuel that is stored beneath these apartments woman one",
+      "seconds": 1.906,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.14,
+          "text": "rememberest thou the magazine of fuel that is stored beneath these apartments woman one",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 1,
+        "errors": 1,
+        "reference_words": 13,
+        "operations": [
+          {
+            "type": "insertion",
+            "hypothesis": "one"
+          }
+        ],
+        "normalized_reference": "rememberest thou the magazine of fuel that is stored beneath these apartments woman",
+        "normalized_hypothesis": "rememberest thou the magazine of fuel that is stored beneath these apartments woman one",
+        "wer": 0.07692307692307693,
+        "char_errors": 3,
+        "reference_chars": 71,
+        "cer": 0.04225352112676056
+      }
+    },
+    {
+      "id": "libri-other-05",
+      "group": "libri-other",
+      "language": "en",
+      "duration": 3.885,
+      "derived": false,
+      "reference": "KNOW WHO NEEDS A JOB BAD THAT'S JAKEY HARRIS",
+      "text": "Know who needs a job bad? That's J.K. Harris.",
+      "seconds": 1.5,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.24,
+          "text": "Know who needs a job bad? That's J.K. Harris.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 1,
+        "deletions": 0,
+        "insertions": 1,
+        "errors": 2,
+        "reference_words": 9,
+        "operations": [
+          {
+            "type": "insertion",
+            "hypothesis": "j"
+          },
+          {
+            "type": "substitution",
+            "reference": "jakey",
+            "hypothesis": "k"
+          }
+        ],
+        "normalized_reference": "know who needs a job bad thats jakey harris",
+        "normalized_hypothesis": "know who needs a job bad thats j k harris",
+        "wer": 0.2222222222222222,
+        "char_errors": 3,
+        "reference_chars": 35,
+        "cer": 0.08571428571428572
+      }
+    },
+    {
+      "id": "stress-switch-01",
+      "group": "stress-switch",
+      "language": "mixed",
+      "duration": 18.415,
+      "derived": true,
+      "reference": "Aynı ay, başka bir yolcu uçağı Meşhed'deki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu. THE DELAWARES ARE CHILDREN OF THE TORTOISE AND THEY OUTSTRIP THE DEER",
+      "text": "aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu İzlediğiniz için teşekkür ederim.",
+      "seconds": 3.891,
+      "segments": [
+        {
+          "start": 2.119999999999999,
+          "end": 11.26,
+          "text": "aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu",
+          "review": false
+        },
+        {
+          "start": 17.599999999999998,
+          "end": 17.78,
+          "text": "İzlediğiniz için teşekkür ederim.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 5,
+        "deletions": 8,
+        "insertions": 0,
+        "errors": 13,
+        "reference_words": 32,
+        "operations": [
+          {
+            "type": "substitution",
+            "reference": "meşheddeki",
+            "hypothesis": "meşetteki"
+          },
+          {
+            "type": "deletion",
+            "reference": "the"
+          },
+          {
+            "type": "deletion",
+            "reference": "delawares"
+          },
+          {
+            "type": "deletion",
+            "reference": "are"
+          },
+          {
+            "type": "deletion",
+            "reference": "children"
+          },
+          {
+            "type": "deletion",
+            "reference": "of"
+          },
+          {
+            "type": "deletion",
+            "reference": "the"
+          },
+          {
+            "type": "deletion",
+            "reference": "tortoise"
+          },
+          {
+            "type": "deletion",
+            "reference": "and"
+          },
+          {
+            "type": "substitution",
+            "reference": "they",
+            "hypothesis": "izlediğiniz"
+          },
+          {
+            "type": "substitution",
+            "reference": "outstrip",
+            "hypothesis": "için"
+          },
+          {
+            "type": "substitution",
+            "reference": "the",
+            "hypothesis": "teşekkür"
+          },
+          {
+            "type": "substitution",
+            "reference": "deer",
+            "hypothesis": "ederim"
+          }
+        ],
+        "normalized_reference": "aynı ay başka bir yolcu uçağı meşheddeki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu the delawares are children of the tortoise and they outstrip the deer",
+        "normalized_hypothesis": "aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu izlediğiniz için teşekkür ederim",
+        "wer": 0.40625,
+        "char_errors": 50,
+        "reference_chars": 152,
+        "cer": 0.32894736842105265
+      }
+    },
+    {
+      "id": "stress-switch-02",
+      "group": "stress-switch",
+      "language": "mixed",
+      "duration": 23.745,
+      "derived": true,
+      "reference": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen ASUS Eee PC, 2007 Taipei BT Ayında sıcak bir gündem maddesi haline geldi. YOU SEE MY FRIEND IT'S AN ISSUE OF THE MONSTER THE NOTORIOUS NARWHALE",
+      "text": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen Asus EEE PC, 2007 Taipei BT ayında sıcak bir gündem maddesi haline geldi.",
+      "seconds": 3.219,
+      "segments": [
+        {
+          "start": 1.7400000000000002,
+          "end": 15.6,
+          "text": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen Asus EEE PC, 2007 Taipei BT ayında sıcak bir gündem maddesi haline geldi.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 13,
+        "insertions": 0,
+        "errors": 13,
+        "reference_words": 38,
+        "operations": [
+          {
+            "type": "deletion",
+            "reference": "you"
+          },
+          {
+            "type": "deletion",
+            "reference": "see"
+          },
+          {
+            "type": "deletion",
+            "reference": "my"
+          },
+          {
+            "type": "deletion",
+            "reference": "friend"
+          },
+          {
+            "type": "deletion",
+            "reference": "its"
+          },
+          {
+            "type": "deletion",
+            "reference": "an"
+          },
+          {
+            "type": "deletion",
+            "reference": "issue"
+          },
+          {
+            "type": "deletion",
+            "reference": "of"
+          },
+          {
+            "type": "deletion",
+            "reference": "the"
+          },
+          {
+            "type": "deletion",
+            "reference": "monster"
+          },
+          {
+            "type": "deletion",
+            "reference": "the"
+          },
+          {
+            "type": "deletion",
+            "reference": "notorious"
+          },
+          {
+            "type": "deletion",
+            "reference": "narwhale"
+          }
+        ],
+        "normalized_reference": "daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen asus eee pc 2007 taipei bt ayında sıcak bir gündem maddesi haline geldi you see my friend its an issue of the monster the notorious narwhale",
+        "normalized_hypothesis": "daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen asus eee pc 2007 taipei bt ayında sıcak bir gündem maddesi haline geldi",
+        "wer": 0.34210526315789475,
+        "char_errors": 56,
+        "reference_chars": 193,
+        "cer": 0.29015544041450775
+      }
+    },
+    {
+      "id": "stress-noise-01",
+      "group": "stress-noise",
+      "language": "tr",
+      "duration": 16.8,
+      "derived": true,
+      "reference": "Singapur Başbakan Yardımcısı Wong Kan Seng tarafından karşılandı ve Singapur Başbakanı Lee Hsien Loong ile ticaret ve terörizm konularını görüştü.",
+      "text": "Singapur Başbakan Yardımcısı Wong Kang-sen tarafından karşılandı ve Singapur Başbakanı Le San Long ile ticaret ve terörizm konularında görüştü.",
+      "seconds": 2.843,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 13.78,
+          "text": "Singapur Başbakan Yardımcısı Wong Kang-sen tarafından karşılandı ve Singapur Başbakanı Le San Long ile ticaret ve terörizm konularında görüştü.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 6,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 6,
+        "reference_words": 20,
+        "operations": [
+          {
+            "type": "substitution",
+            "reference": "kan",
+            "hypothesis": "kang"
+          },
+          {
+            "type": "substitution",
+            "reference": "seng",
+            "hypothesis": "sen"
+          },
+          {
+            "type": "substitution",
+            "reference": "lee",
+            "hypothesis": "le"
+          },
+          {
+            "type": "substitution",
+            "reference": "hsien",
+            "hypothesis": "san"
+          },
+          {
+            "type": "substitution",
+            "reference": "loong",
+            "hypothesis": "long"
+          },
+          {
+            "type": "substitution",
+            "reference": "konularını",
+            "hypothesis": "konularında"
+          }
+        ],
+        "normalized_reference": "singapur başbakan yardımcısı wong kan seng tarafından karşılandı ve singapur başbakanı lee hsien loong ile ticaret ve terörizm konularını görüştü",
+        "normalized_hypothesis": "singapur başbakan yardımcısı wong kang sen tarafından karşılandı ve singapur başbakanı le san long ile ticaret ve terörizm konularında görüştü",
+        "wer": 0.3,
+        "char_errors": 9,
+        "reference_chars": 126,
+        "cer": 0.07142857142857142
+      }
+    },
+    {
+      "id": "stress-noise-02",
+      "group": "stress-noise",
+      "language": "en",
+      "duration": 8.07,
+      "derived": true,
+      "reference": "THE ARIANS TOOK CHRIST FOR A NOBLE AND PERFECT CREATURE SUPERIOR EVEN TO THE ANGELS BECAUSE BY HIM GOD CREATED HEAVEN AND EARTH",
+      "text": "The Arians took Christ for a noble and perfect creature, superior even to the angels, because by him God created heaven and earth.",
+      "seconds": 2.281,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 7.36,
+          "text": "The Arians took Christ for a noble and perfect creature, superior even to the angels, because by him God created heaven and earth.",
+          "review": false
+        }
+      ],
+      "score": {
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_words": 23,
+        "operations": [],
+        "normalized_reference": "the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth",
+        "normalized_hypothesis": "the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth",
+        "wer": 0.0,
+        "char_errors": 0,
+        "reference_chars": 105,
+        "cer": 0.0
+      }
+    }
+  ]
+}

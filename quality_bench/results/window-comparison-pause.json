@@ -1,0 +1,1130 @@
+{
+  "candidate_is_default": false,
+  "groups": {
+    "source-20": {
+      "baseline": {
+        "errors": 42,
+        "reference_words": 424,
+        "substitutions": 20,
+        "deletions": 9,
+        "insertions": 13,
+        "char_errors": 137,
+        "reference_chars": 2265,
+        "clips": 20,
+        "wer": 0.09905660377358491,
+        "cer": 0.060485651214128036,
+        "seconds": 358.076,
+        "audio_seconds": 200.825,
+        "number_format_wer": 0.07746478873239436
+      },
+      "candidate": {
+        "errors": 43,
+        "reference_words": 424,
+        "substitutions": 20,
+        "deletions": 10,
+        "insertions": 13,
+        "char_errors": 143,
+        "reference_chars": 2265,
+        "clips": 20,
+        "wer": 0.10141509433962265,
+        "cer": 0.0631346578366446,
+        "seconds": 63.189,
+        "audio_seconds": 200.825,
+        "number_format_wer": 0.07981220657276995
+      }
+    },
+    "derived-4": {
+      "baseline": {
+        "errors": 10,
+        "reference_words": 113,
+        "substitutions": 9,
+        "deletions": 1,
+        "insertions": 0,
+        "char_errors": 19,
+        "reference_chars": 576,
+        "clips": 4,
+        "wer": 0.08849557522123894,
+        "cer": 0.03298611111111111,
+        "seconds": 92.03200000000001,
+        "audio_seconds": 67.03,
+        "number_format_wer": 0.08849557522123894
+      },
+      "candidate": {
+        "errors": 32,
+        "reference_words": 113,
+        "substitutions": 11,
+        "deletions": 21,
+        "insertions": 0,
+        "char_errors": 115,
+        "reference_chars": 576,
+        "clips": 4,
+        "wer": 0.2831858407079646,
+        "cer": 0.1996527777777778,
+        "seconds": 12.234,
+        "audio_seconds": 67.03,
+        "number_format_wer": 0.2831858407079646
+      }
+    },
+    "fleurs-tr": {
+      "baseline": {
+        "errors": 7,
+        "reference_words": 90,
+        "substitutions": 6,
+        "deletions": 1,
+        "insertions": 0,
+        "char_errors": 14,
+        "reference_chars": 544,
+        "clips": 5,
+        "wer": 0.07777777777777778,
+        "cer": 0.025735294117647058,
+        "seconds": 96.641,
+        "audio_seconds": 65.88,
+        "number_format_wer": 0.05434782608695652
+      },
+      "candidate": {
+        "errors": 7,
+        "reference_words": 90,
+        "substitutions": 6,
+        "deletions": 1,
+        "insertions": 0,
+        "char_errors": 14,
+        "reference_chars": 544,
+        "clips": 5,
+        "wer": 0.07777777777777778,
+        "cer": 0.025735294117647058,
+        "seconds": 18.172,
+        "audio_seconds": 65.88,
+        "number_format_wer": 0.05434782608695652
+      }
+    },
+    "libri-clean": {
+      "baseline": {
+        "errors": 9,
+        "reference_words": 95,
+        "substitutions": 2,
+        "deletions": 1,
+        "insertions": 6,
+        "char_errors": 35,
+        "reference_chars": 401,
+        "clips": 5,
+        "wer": 0.09473684210526316,
+        "cer": 0.08728179551122195,
+        "seconds": 63.624,
+        "audio_seconds": 32.54,
+        "number_format_wer": 0.09473684210526316
+      },
+      "candidate": {
+        "errors": 9,
+        "reference_words": 95,
+        "substitutions": 2,
+        "deletions": 1,
+        "insertions": 6,
+        "char_errors": 35,
+        "reference_chars": 401,
+        "clips": 5,
+        "wer": 0.09473684210526316,
+        "cer": 0.08728179551122195,
+        "seconds": 11.438,
+        "audio_seconds": 32.54,
+        "number_format_wer": 0.09473684210526316
+      }
+    },
+    "libri-other": {
+      "baseline": {
+        "errors": 4,
+        "reference_words": 89,
+        "substitutions": 1,
+        "deletions": 0,
+        "insertions": 3,
+        "char_errors": 15,
+        "reference_chars": 356,
+        "clips": 5,
+        "wer": 0.0449438202247191,
+        "cer": 0.042134831460674156,
+        "seconds": 60.124,
+        "audio_seconds": 29.405,
+        "number_format_wer": 0.0449438202247191
+      },
+      "candidate": {
+        "errors": 4,
+        "reference_words": 89,
+        "substitutions": 1,
+        "deletions": 0,
+        "insertions": 3,
+        "char_errors": 15,
+        "reference_chars": 356,
+        "clips": 5,
+        "wer": 0.0449438202247191,
+        "cer": 0.042134831460674156,
+        "seconds": 10.813,
+        "audio_seconds": 29.405,
+        "number_format_wer": 0.0449438202247191
+      }
+    },
+    "media-tr": {
+      "baseline": {
+        "errors": 22,
+        "reference_words": 150,
+        "substitutions": 11,
+        "deletions": 7,
+        "insertions": 4,
+        "char_errors": 73,
+        "reference_chars": 964,
+        "clips": 5,
+        "wer": 0.14666666666666667,
+        "cer": 0.07572614107883817,
+        "seconds": 137.687,
+        "audio_seconds": 73.0,
+        "number_format_wer": 0.1
+      },
+      "candidate": {
+        "errors": 23,
+        "reference_words": 150,
+        "substitutions": 11,
+        "deletions": 8,
+        "insertions": 4,
+        "char_errors": 79,
+        "reference_chars": 964,
+        "clips": 5,
+        "wer": 0.15333333333333332,
+        "cer": 0.08195020746887967,
+        "seconds": 22.766000000000002,
+        "audio_seconds": 73.0,
+        "number_format_wer": 0.10666666666666667
+      }
+    },
+    "stress-noise": {
+      "baseline": {
+        "errors": 6,
+        "reference_words": 43,
+        "substitutions": 6,
+        "deletions": 0,
+        "insertions": 0,
+        "char_errors": 9,
+        "reference_chars": 231,
+        "clips": 2,
+        "wer": 0.13953488372093023,
+        "cer": 0.03896103896103896,
+        "seconds": 35.672,
+        "audio_seconds": 24.87,
+        "number_format_wer": 0.13953488372093023
+      },
+      "candidate": {
+        "errors": 6,
+        "reference_words": 43,
+        "substitutions": 6,
+        "deletions": 0,
+        "insertions": 0,
+        "char_errors": 9,
+        "reference_chars": 231,
+        "clips": 2,
+        "wer": 0.13953488372093023,
+        "cer": 0.03896103896103896,
+        "seconds": 5.1240000000000006,
+        "audio_seconds": 24.87,
+        "number_format_wer": 0.13953488372093023
+      }
+    },
+    "stress-switch": {
+      "baseline": {
+        "errors": 4,
+        "reference_words": 70,
+        "substitutions": 3,
+        "deletions": 1,
+        "insertions": 0,
+        "char_errors": 10,
+        "reference_chars": 345,
+        "clips": 2,
+        "wer": 0.05714285714285714,
+        "cer": 0.028985507246376812,
+        "seconds": 56.36,
+        "audio_seconds": 42.16,
+        "number_format_wer": 0.05714285714285714
+      },
+      "candidate": {
+        "errors": 26,
+        "reference_words": 70,
+        "substitutions": 5,
+        "deletions": 21,
+        "insertions": 0,
+        "char_errors": 106,
+        "reference_chars": 345,
+        "clips": 2,
+        "wer": 0.37142857142857144,
+        "cer": 0.3072463768115942,
+        "seconds": 7.109999999999999,
+        "audio_seconds": 42.16,
+        "number_format_wer": 0.37142857142857144
+      }
+    }
+  },
+  "differences": [
+    {
+      "id": "fleurs-tr-01",
+      "group": "fleurs-tr",
+      "derived": false,
+      "reference": "Aynı ay, başka bir yolcu uçağı Meşhed'deki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu.",
+      "baseline": "Aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve 17 kişinin ölümüne neden oldu.",
+      "candidate": "Aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve 17 kişinin ölümüne neden oldu.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "substitution",
+          "reference": "meşheddeki",
+          "hypothesis": "meşetteki"
+        },
+        {
+          "type": "deletion",
+          "reference": "on"
+        },
+        {
+          "type": "substitution",
+          "reference": "yedi",
+          "hypothesis": "17"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "substitution",
+          "reference": "meşheddeki",
+          "hypothesis": "meşetteki"
+        },
+        {
+          "type": "deletion",
+          "reference": "on"
+        },
+        {
+          "type": "substitution",
+          "reference": "yedi",
+          "hypothesis": "17"
+        }
+      ]
+    },
+    {
+      "id": "fleurs-tr-02",
+      "group": "fleurs-tr",
+      "derived": false,
+      "reference": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen ASUS Eee PC, 2007 Taipei BT Ayında sıcak bir gündem maddesi haline geldi.",
+      "baseline": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen Asus EEE PC 2007 Taipei BT ayında sıcak bir gündem maddesi haline geldi.",
+      "candidate": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen Asus EEE PC, 2007 Taipei BT ayında sıcak bir gündem maddesi haline geldi.",
+      "error_delta": 0,
+      "baseline_errors": [],
+      "candidate_errors": []
+    },
+    {
+      "id": "fleurs-tr-03",
+      "group": "fleurs-tr",
+      "derived": false,
+      "reference": "Singapur Başbakan Yardımcısı Wong Kan Seng tarafından karşılandı ve Singapur Başbakanı Lee Hsien Loong ile ticaret ve terörizm konularını görüştü.",
+      "baseline": "Singapur Başbakan Yardımcısı Wong Kang Seng tarafından karşılandı ve Singapur Başbakanı Le Sen Long ile ticaret ve terörizm konularını görüştü.",
+      "candidate": "Singapur Başbakan Yardımcısı Wong Kang Seng tarafından karşılandı ve Singapur Başbakanı Le Sen Long ile ticaret ve terörizm konularını görüştü.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "substitution",
+          "reference": "kan",
+          "hypothesis": "kang"
+        },
+        {
+          "type": "substitution",
+          "reference": "lee",
+          "hypothesis": "le"
+        },
+        {
+          "type": "substitution",
+          "reference": "hsien",
+          "hypothesis": "sen"
+        },
+        {
+          "type": "substitution",
+          "reference": "loong",
+          "hypothesis": "long"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "substitution",
+          "reference": "kan",
+          "hypothesis": "kang"
+        },
+        {
+          "type": "substitution",
+          "reference": "lee",
+          "hypothesis": "le"
+        },
+        {
+          "type": "substitution",
+          "reference": "hsien",
+          "hypothesis": "sen"
+        },
+        {
+          "type": "substitution",
+          "reference": "loong",
+          "hypothesis": "long"
+        }
+      ]
+    },
+    {
+      "id": "fleurs-tr-04",
+      "group": "fleurs-tr",
+      "derived": false,
+      "reference": "Video görüntülerinden faydalanılması, mimiklerin yorumlanmasında, birkaç milisaniye devam eden yüz hareketlerinde önemli keşiflere yol açmıştır.",
+      "baseline": "Video görüntülerinden faydalanılması mimiklerin yorumlanmasında birkaç milisaniye devam eden yüz hareketlerinde önemli keşiflere yol açmıştır.",
+      "candidate": "Video görüntülerinden faydalanılması mimiklerin yorumlanmasında birkaç milisaniye devam eden yüz hareketlerinde önemli keşiflere yol açmıştır.",
+      "error_delta": 0,
+      "baseline_errors": [],
+      "candidate_errors": []
+    },
+    {
+      "id": "fleurs-tr-05",
+      "group": "fleurs-tr",
+      "derived": false,
+      "reference": "Bu çiftler bebekleri için bir evlat edinme planı yapmayı seçebilirler.",
+      "baseline": "Bu çiftler bebekleri için bir evlat edinme planı yapmayı seçebilirler.",
+      "candidate": "Bu çiftler bebekleri için bir evlat edinme planı yapmayı seçebilirler.",
+      "error_delta": 0,
+      "baseline_errors": [],
+      "candidate_errors": []
+    },
+    {
+      "id": "media-tr-01",
+      "group": "media-tr",
+      "derived": false,
+      "reference": "kısıtlamalarına geri mi dönsek deniliyor şimdi ekonomik tedbirler bunu hani biz neleri geride bıraktık on bir mart'ta birinci vaka açıklandıktan sonra neleri yaşadık biz kepenkler indi dükkanlar kapandı işte günlük o",
+      "baseline": "...kısıtlamalarına geri mi dönsek deniliyor. Şimdi ekonomik tedbirler, biz neleri geride bıraktık? 11 Mart'ta birinci vaka açıklandıktan sonra neleri yaşadık biz? Kepenkler indi, dükkanlar kapandı, işte günlük otobüs...",
+      "candidate": "...kısıtlamalarına geri mi dönsek deniliyor. Şimdi ekonomik tedbirler, biz neleri geride bıraktık? 11 Mart'ta birinci vaka açıklandıktan sonra neleri yaşadık biz? Kepenkler indi, dükkanlar kapandı, günlük otobüsler...",
+      "error_delta": 1,
+      "baseline_errors": [
+        {
+          "type": "deletion",
+          "reference": "bunu"
+        },
+        {
+          "type": "deletion",
+          "reference": "hani"
+        },
+        {
+          "type": "deletion",
+          "reference": "on"
+        },
+        {
+          "type": "substitution",
+          "reference": "bir",
+          "hypothesis": "11"
+        },
+        {
+          "type": "substitution",
+          "reference": "o",
+          "hypothesis": "otobüs"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "deletion",
+          "reference": "bunu"
+        },
+        {
+          "type": "deletion",
+          "reference": "hani"
+        },
+        {
+          "type": "deletion",
+          "reference": "on"
+        },
+        {
+          "type": "substitution",
+          "reference": "bir",
+          "hypothesis": "11"
+        },
+        {
+          "type": "deletion",
+          "reference": "işte"
+        },
+        {
+          "type": "substitution",
+          "reference": "o",
+          "hypothesis": "otobüsler"
+        }
+      ]
+    },
+    {
+      "id": "media-tr-02",
+      "group": "media-tr",
+      "derived": false,
+      "reference": "hakkari'de iki köy karantina altına alındı kocaeli'nin dilovası ilçesinde asker uğurlamasına katılan aynı aileden üç kişinin korona virüs testleri pozitif çıkınca uğurlamaya katılan yakınlarının da aralarında olduğu yüz elli kişinin",
+      "baseline": "Hakkari'de iki köy karantina altına alındı. Kocaeli'nin Dilovası ilçesinde asker uğurlamasına katılan aynı aileden 3 kişinin koronavirüs testleri pozitif çıkınca uğurlamaya katılan yakınlarının da aralarında olduğu 150 kişinin...",
+      "candidate": "Hakkari'de iki köy karantina altına alındı. Kocaeli'nin Dilovası ilçesinde asker uğurlamasına katılan aynı aileden 3 kişinin koronavirüs testleri pozitif çıkınca uğurlamaya katılan yakınlarının da aralarında olduğu 150 kişinin...",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "substitution",
+          "reference": "üç",
+          "hypothesis": "3"
+        },
+        {
+          "type": "deletion",
+          "reference": "korona"
+        },
+        {
+          "type": "substitution",
+          "reference": "virüs",
+          "hypothesis": "koronavirüs"
+        },
+        {
+          "type": "deletion",
+          "reference": "yüz"
+        },
+        {
+          "type": "substitution",
+          "reference": "elli",
+          "hypothesis": "150"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "substitution",
+          "reference": "üç",
+          "hypothesis": "3"
+        },
+        {
+          "type": "deletion",
+          "reference": "korona"
+        },
+        {
+          "type": "substitution",
+          "reference": "virüs",
+          "hypothesis": "koronavirüs"
+        },
+        {
+          "type": "deletion",
+          "reference": "yüz"
+        },
+        {
+          "type": "substitution",
+          "reference": "elli",
+          "hypothesis": "150"
+        }
+      ]
+    },
+    {
+      "id": "media-tr-03",
+      "group": "media-tr",
+      "derived": false,
+      "reference": "kaybedecek tek bir günü dahi yoktur kendi yolumuzda devam etmekten başka çaremiz kalmamıştır cumhurbaşkanı erdoğan'ın meclis açılışına verdiği mesajın ardından gözler sınırda ankara harekat kararlılığını sürdürürken",
+      "baseline": "Bunu da kaybedecek tek bir günü dahi yoktur. Kendi yolumuzda devam etmekten başka çaremiz kalmamıştır. Cumhurbaşkanı Erdoğan'ın meclis açılışına verdiği mesajın ardından Gözler sınırda Ankara harekat kararlılığını sürdürürken",
+      "candidate": "Bunu da kaybedecek tek bir günü dahi yoktur. Kendi yolumuzda devam etmekten başka çaremiz kalmamıştır. Cumhurbaşkanı Erdoğan'ın meclis açılışına verdiği mesajın ardından gözler sınırda Ankara harekat kararlılığını sürdürürken",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "bunu"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "da"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "bunu"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "da"
+        }
+      ]
+    },
+    {
+      "id": "media-tr-04",
+      "group": "media-tr",
+      "derived": false,
+      "reference": "ha bu da bizce gerçek değil biz bunun da bir kumpas olduğunu düşünüyoruz oda tv haber müdür müyesser yıldız askeri casusluktan gözaltına alınmıştı ama savcılık ifadesinden sonra mahkemeye gizli kalması gereken bilgileri açıklamak suçlamasıyla sevk",
+      "baseline": "Ha bu da bizce gerçek değil. Biz bunun da bir kumpası olduğunu düşünüyoruz. Oda TV haber müdürü Müesser Yıldız askeri casusluktan gözaltına alınmıştı ama savcılık ifadesinden sonra mahkemeye gizli kalması gereken bilgileri açıklamak suçlamasıyla sevk edildi.",
+      "candidate": "Ha bu da bizce gerçek değil. Biz bunun da bir kumpası olduğunu düşünüyoruz. Oda TV haber müdürü Müesser Yıldız askeri casusluktan gözaltına alınmıştı ama savcılık ifadesinden sonra mahkemeye gizli kalması gereken bilgileri açıklamak suçlamasıyla sevk edildi.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "substitution",
+          "reference": "kumpas",
+          "hypothesis": "kumpası"
+        },
+        {
+          "type": "substitution",
+          "reference": "müdür",
+          "hypothesis": "müdürü"
+        },
+        {
+          "type": "substitution",
+          "reference": "müyesser",
+          "hypothesis": "müesser"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "edildi"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "substitution",
+          "reference": "kumpas",
+          "hypothesis": "kumpası"
+        },
+        {
+          "type": "substitution",
+          "reference": "müdür",
+          "hypothesis": "müdürü"
+        },
+        {
+          "type": "substitution",
+          "reference": "müyesser",
+          "hypothesis": "müesser"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "edildi"
+        }
+      ]
+    },
+    {
+      "id": "media-tr-05",
+      "group": "media-tr",
+      "derived": false,
+      "reference": "kaldırılan tedbirlerden sonraki yansımaları görüyoruz evet asıl daha da riskte olan geçtiğimiz hafta sonu daha büyük kısıtlamalar kaldırdık altmış beş yaş üstü insanların sokağa çıkmalarını ve  diğer bazı",
+      "baseline": "...kaldırılan tedbirlerden sonraki yansımaları görüyoruz. Asıl daha da riskli olan geçtiğimiz hafta sonu. Daha büyük ısıtmalar kaldırdık. 65 yaş üstü insanların sokağa çıkmalarını ve diğer bazı tecrübelerini",
+      "candidate": "...kaldırılan tedbirlerden sonraki yansımaları görüyoruz. Asıl daha da riskli olan geçtiğimiz hafta sonu. Daha büyük ısıtmalar kaldırdık. 65 yaş üstü insanların sokağa çıkmalarını ve diğer bazı tedbirlerini...",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "deletion",
+          "reference": "evet"
+        },
+        {
+          "type": "substitution",
+          "reference": "riskte",
+          "hypothesis": "riskli"
+        },
+        {
+          "type": "substitution",
+          "reference": "kısıtlamalar",
+          "hypothesis": "ısıtmalar"
+        },
+        {
+          "type": "deletion",
+          "reference": "altmış"
+        },
+        {
+          "type": "substitution",
+          "reference": "beş",
+          "hypothesis": "65"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "tecrübelerini"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "deletion",
+          "reference": "evet"
+        },
+        {
+          "type": "substitution",
+          "reference": "riskte",
+          "hypothesis": "riskli"
+        },
+        {
+          "type": "substitution",
+          "reference": "kısıtlamalar",
+          "hypothesis": "ısıtmalar"
+        },
+        {
+          "type": "deletion",
+          "reference": "altmış"
+        },
+        {
+          "type": "substitution",
+          "reference": "beş",
+          "hypothesis": "65"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "tedbirlerini"
+        }
+      ]
+    },
+    {
+      "id": "libri-clean-01",
+      "group": "libri-clean",
+      "derived": false,
+      "reference": "THE DELAWARES ARE CHILDREN OF THE TORTOISE AND THEY OUTSTRIP THE DEER",
+      "baseline": "The delawares are children of the tortoise, and they outstrip the deer.",
+      "candidate": "The delawares are children of the tortoise, and they outstrip the deer.",
+      "error_delta": 0,
+      "baseline_errors": [],
+      "candidate_errors": []
+    },
+    {
+      "id": "libri-clean-02",
+      "group": "libri-clean",
+      "derived": false,
+      "reference": "YOU SEE MY FRIEND IT'S AN ISSUE OF THE MONSTER THE NOTORIOUS NARWHALE",
+      "baseline": "you see my friend it's an issue of the monster the notorious narwhal",
+      "candidate": "you see my friend it's an issue of the monster the notorious narwhal",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "substitution",
+          "reference": "narwhale",
+          "hypothesis": "narwhal"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "substitution",
+          "reference": "narwhale",
+          "hypothesis": "narwhal"
+        }
+      ]
+    },
+    {
+      "id": "libri-clean-03",
+      "group": "libri-clean",
+      "derived": false,
+      "reference": "THE ARIANS TOOK CHRIST FOR A NOBLE AND PERFECT CREATURE SUPERIOR EVEN TO THE ANGELS BECAUSE BY HIM GOD CREATED HEAVEN AND EARTH",
+      "baseline": "the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth Earth.",
+      "candidate": "the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth Earth.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "earth"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "earth"
+        }
+      ]
+    },
+    {
+      "id": "libri-clean-04",
+      "group": "libri-clean",
+      "derived": false,
+      "reference": "IN THE COURT YARD SOME OF THE MERRY CHILDREN WERE PLAYING WHO HAD DANCED AT CHRISTMAS ROUND THE FIR TREE AND WERE SO GLAD AT THE SIGHT OF HIM",
+      "baseline": "in the courtyard some of the merry children were playing who had danced at christmas round the fir-tree and were so glad at the sight of him We'll be right back.",
+      "candidate": "in the courtyard some of the merry children were playing who had danced at christmas round the fir-tree and were so glad at the sight of him We'll be right back.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "deletion",
+          "reference": "court"
+        },
+        {
+          "type": "substitution",
+          "reference": "yard",
+          "hypothesis": "courtyard"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "well"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "be"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "right"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "back"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "deletion",
+          "reference": "court"
+        },
+        {
+          "type": "substitution",
+          "reference": "yard",
+          "hypothesis": "courtyard"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "well"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "be"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "right"
+        },
+        {
+          "type": "insertion",
+          "hypothesis": "back"
+        }
+      ]
+    },
+    {
+      "id": "libri-clean-05",
+      "group": "libri-clean",
+      "derived": false,
+      "reference": "IT IS SUCH A NOBLE AMBITION THAT IT IS A PITY IT HAS USUALLY SUCH A SHALLOW FOUNDATION",
+      "baseline": "it is such a noble ambition that it is a pity it has usually such a shallow foundation recommendation.",
+      "candidate": "it is such a noble ambition that it is a pity it has usually such a shallow foundation recommendation.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "recommendation"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "recommendation"
+        }
+      ]
+    },
+    {
+      "id": "libri-other-01",
+      "group": "libri-other",
+      "derived": false,
+      "reference": "YES SIR SAID THE MAN HUMBLY SHALL I GO AT ONCE SIR",
+      "baseline": "yes sir said the man humbly shall i go at once sir",
+      "candidate": "yes sir said the man humbly shall i go at once sir",
+      "error_delta": 0,
+      "baseline_errors": [],
+      "candidate_errors": []
+    },
+    {
+      "id": "libri-other-02",
+      "group": "libri-other",
+      "derived": false,
+      "reference": "A WOMAN WHO YEARNS FOR THE REGARD OF ALL MEN AND MAKES LOVE A TOY EASILY LESSENS THE DEMANDS SHE IMPOSES UPON INDIVIDUALS",
+      "baseline": "A woman who yearns for the regard of all men and makes love a toy easily lessens the demands she imposes upon individuals.",
+      "candidate": "A woman who yearns for the regard of all men and makes love a toy easily lessens the demands she imposes upon individuals.",
+      "error_delta": 0,
+      "baseline_errors": [],
+      "candidate_errors": []
+    },
+    {
+      "id": "libri-other-03",
+      "group": "libri-other",
+      "derived": false,
+      "reference": "EVERY TIME I SAW ANY ONE WITH A BEAD ON ME I WOULD DROP OFF MY HORSE AND TRY TO DRIVE THE SHOOTER INSIDE BUT I COULD NOT SEE IN EVERY DIRECTION",
+      "baseline": "every time i saw any one with a bead on me i would drop off my horse and try to drive the shooter inside but i could not see in every direction direction.",
+      "candidate": "every time i saw any one with a bead on me i would drop off my horse and try to drive the shooter inside but i could not see in every direction direction.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "direction"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "direction"
+        }
+      ]
+    },
+    {
+      "id": "libri-other-04",
+      "group": "libri-other",
+      "derived": false,
+      "reference": "REMEMBEREST THOU THE MAGAZINE OF FUEL THAT IS STORED BENEATH THESE APARTMENTS WOMAN",
+      "baseline": "rememberest thou the magazine of fuel that is stored beneath these apartments woman one",
+      "candidate": "rememberest thou the magazine of fuel that is stored beneath these apartments woman one",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "one"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "one"
+        }
+      ]
+    },
+    {
+      "id": "libri-other-05",
+      "group": "libri-other",
+      "derived": false,
+      "reference": "KNOW WHO NEEDS A JOB BAD THAT'S JAKEY HARRIS",
+      "baseline": "Know who needs a job bad? That's J.K. Harris.",
+      "candidate": "Know who needs a job bad? That's J.K. Harris.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "j"
+        },
+        {
+          "type": "substitution",
+          "reference": "jakey",
+          "hypothesis": "k"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "insertion",
+          "hypothesis": "j"
+        },
+        {
+          "type": "substitution",
+          "reference": "jakey",
+          "hypothesis": "k"
+        }
+      ]
+    },
+    {
+      "id": "stress-switch-01",
+      "group": "stress-switch",
+      "derived": true,
+      "reference": "Aynı ay, başka bir yolcu uçağı Meşhed'deki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu. THE DELAWARES ARE CHILDREN OF THE TORTOISE AND THEY OUTSTRIP THE DEER",
+      "baseline": "Aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve 17 kişinin ölümüne neden oldu. The Delawares are children of the tortoise, and they outstrip the deer.",
+      "candidate": "aynı ay başka bir yolcu uçağı meşetteki bir pisti aşarak bir duvara çarptı ve on yedi kişinin ölümüne neden oldu İzlediğiniz için teşekkür ederim.",
+      "error_delta": 10,
+      "baseline_errors": [
+        {
+          "type": "substitution",
+          "reference": "meşheddeki",
+          "hypothesis": "meşetteki"
+        },
+        {
+          "type": "deletion",
+          "reference": "on"
+        },
+        {
+          "type": "substitution",
+          "reference": "yedi",
+          "hypothesis": "17"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "substitution",
+          "reference": "meşheddeki",
+          "hypothesis": "meşetteki"
+        },
+        {
+          "type": "deletion",
+          "reference": "the"
+        },
+        {
+          "type": "deletion",
+          "reference": "delawares"
+        },
+        {
+          "type": "deletion",
+          "reference": "are"
+        },
+        {
+          "type": "deletion",
+          "reference": "children"
+        },
+        {
+          "type": "deletion",
+          "reference": "of"
+        },
+        {
+          "type": "deletion",
+          "reference": "the"
+        },
+        {
+          "type": "deletion",
+          "reference": "tortoise"
+        },
+        {
+          "type": "deletion",
+          "reference": "and"
+        },
+        {
+          "type": "substitution",
+          "reference": "they",
+          "hypothesis": "izlediğiniz"
+        },
+        {
+          "type": "substitution",
+          "reference": "outstrip",
+          "hypothesis": "için"
+        },
+        {
+          "type": "substitution",
+          "reference": "the",
+          "hypothesis": "teşekkür"
+        },
+        {
+          "type": "substitution",
+          "reference": "deer",
+          "hypothesis": "ederim"
+        }
+      ]
+    },
+    {
+      "id": "stress-switch-02",
+      "group": "stress-switch",
+      "derived": true,
+      "reference": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen ASUS Eee PC, 2007 Taipei BT Ayında sıcak bir gündem maddesi haline geldi. YOU SEE MY FRIEND IT'S AN ISSUE OF THE MONSTER THE NOTORIOUS NARWHALE",
+      "baseline": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen Asus EEE PC 2007 Taipei BT ayında sıcak bir gündem maddesi haline geldi. You see, my friend, it's an issue of the monster, the notorious narwhal.",
+      "candidate": "Daha önce maliyet tasarrufu ve işlevsellik faktörleri için dünya çapında piyasaya sürülen Asus EEE PC, 2007 Taipei BT ayında sıcak bir gündem maddesi haline geldi.",
+      "error_delta": 12,
+      "baseline_errors": [
+        {
+          "type": "substitution",
+          "reference": "narwhale",
+          "hypothesis": "narwhal"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "deletion",
+          "reference": "you"
+        },
+        {
+          "type": "deletion",
+          "reference": "see"
+        },
+        {
+          "type": "deletion",
+          "reference": "my"
+        },
+        {
+          "type": "deletion",
+          "reference": "friend"
+        },
+        {
+          "type": "deletion",
+          "reference": "its"
+        },
+        {
+          "type": "deletion",
+          "reference": "an"
+        },
+        {
+          "type": "deletion",
+          "reference": "issue"
+        },
+        {
+          "type": "deletion",
+          "reference": "of"
+        },
+        {
+          "type": "deletion",
+          "reference": "the"
+        },
+        {
+          "type": "deletion",
+          "reference": "monster"
+        },
+        {
+          "type": "deletion",
+          "reference": "the"
+        },
+        {
+          "type": "deletion",
+          "reference": "notorious"
+        },
+        {
+          "type": "deletion",
+          "reference": "narwhale"
+        }
+      ]
+    },
+    {
+      "id": "stress-noise-01",
+      "group": "stress-noise",
+      "derived": true,
+      "reference": "Singapur Başbakan Yardımcısı Wong Kan Seng tarafından karşılandı ve Singapur Başbakanı Lee Hsien Loong ile ticaret ve terörizm konularını görüştü.",
+      "baseline": "Singapur Başbakan Yardımcısı Wong Kang-sen tarafından karşılandı ve Singapur Başbakanı Le San Long ile ticaret ve terörizm konularında görüştü.",
+      "candidate": "Singapur Başbakan Yardımcısı Wong Kang-sen tarafından karşılandı ve Singapur Başbakanı Le San Long ile ticaret ve terörizm konularında görüştü.",
+      "error_delta": 0,
+      "baseline_errors": [
+        {
+          "type": "substitution",
+          "reference": "kan",
+          "hypothesis": "kang"
+        },
+        {
+          "type": "substitution",
+          "reference": "seng",
+          "hypothesis": "sen"
+        },
+        {
+          "type": "substitution",
+          "reference": "lee",
+          "hypothesis": "le"
+        },
+        {
+          "type": "substitution",
+          "reference": "hsien",
+          "hypothesis": "san"
+        },
+        {
+          "type": "substitution",
+          "reference": "loong",
+          "hypothesis": "long"
+        },
+        {
+          "type": "substitution",
+          "reference": "konularını",
+          "hypothesis": "konularında"
+        }
+      ],
+      "candidate_errors": [
+        {
+          "type": "substitution",
+          "reference": "kan",
+          "hypothesis": "kang"
+        },
+        {
+          "type": "substitution",
+          "reference": "seng",
+          "hypothesis": "sen"
+        },
+        {
+          "type": "substitution",
+          "reference": "lee",
+          "hypothesis": "le"
+        },
+        {
+          "type": "substitution",
+          "reference": "hsien",
+          "hypothesis": "san"
+        },
+        {
+          "type": "substitution",
+          "reference": "loong",
+          "hypothesis": "long"
+        },
+        {
+          "type": "substitution",
+          "reference": "konularını",
+          "hypothesis": "konularında"
+        }
+      ]
+    },
+    {
+      "id": "stress-noise-02",
+      "group": "stress-noise",
+      "derived": true,
+      "reference": "THE ARIANS TOOK CHRIST FOR A NOBLE AND PERFECT CREATURE SUPERIOR EVEN TO THE ANGELS BECAUSE BY HIM GOD CREATED HEAVEN AND EARTH",
+      "baseline": "The Arians took Christ for a noble and perfect creature, superior even to the angels, because by him God created heaven and earth.",
+      "candidate": "The Arians took Christ for a noble and perfect creature, superior even to the angels, because by him God created heaven and earth.",
+      "error_delta": 0,
+      "baseline_errors": [],
+      "candidate_errors": []
+    }
+  ],
+  "limits": "Geliştirme seti; doğal ders konuşması veya uzun kayıt doğrulaması değil. Süreler standart hız kıyası değil."
+}

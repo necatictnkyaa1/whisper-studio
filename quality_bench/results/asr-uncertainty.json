@@ -1,0 +1,20 @@
+[
+  {
+    "engine": "whisper-plain",
+    "delta_wer": 0.0047169811320754715,
+    "resampled_95_low": 0.0,
+    "resampled_95_high": 0.011061946902654867
+  },
+  {
+    "engine": "whisper-plain-float16",
+    "delta_wer": 0.0,
+    "resampled_95_low": -0.008733624454148471,
+    "resampled_95_high": 0.008948545861297539
+  },
+  {
+    "engine": "qwen-asr",
+    "delta_wer": -0.007075471698113208,
+    "resampled_95_low": -0.045548654244306416,
+    "resampled_95_high": 0.029850746268656716
+  }
+]

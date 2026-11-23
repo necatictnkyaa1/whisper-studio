@@ -1,0 +1,224 @@
+{
+  "rows": [
+    {
+      "id": "flores-0001",
+      "line": 1,
+      "source": "\"We now have 4-month-old mice that are non-diabetic that used to be diabetic,\" he added.",
+      "reference": "Daha önce diyabetik olup şimdi diyabetik olmayan 4 aylık farelerimiz var, diye ekledi.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "\"Artık, eskiden diyabetik olan ancak şimdi diyabeti olmayan 4 aylık farelerimiz var,\" dedi.",
+      "error": null,
+      "seconds": 21.828
+    },
+    {
+      "id": "flores-0101",
+      "line": 101,
+      "source": "In one year's time, an infected person may infect 10 to 15 close contacts.",
+      "reference": "Enfekte bir kişi 1 yıl içerisinde 10 ila 15 yakın temasa hastalık bulaştırabilir.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Bir yıl içinde, enfekte olmuş bir kişi 10 ile 15 yakın temasını enfekte edebilir.",
+      "error": null,
+      "seconds": 9.485
+    },
+    {
+      "id": "flores-0201",
+      "line": 201,
+      "source": "They include the Netherlands, with Anna Jochemsen finishing ninth in the women's standing class in the Super-G yesterday, and Finland with Katja Saarinen finishing tenth in the same event.",
+      "reference": "Anna Jochemsen'in dün Super-G kadınlar ayakta sınıfında dokuzuncu bitirmesi ile Hollanda'yı ve aynı etkinlikte onuncu bitiren Katja Saarinen ile Finlandiya'yı içermektedir.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Bunlar arasında, dün Super-G'de kadınlar duruş sınıfında dokuzuncu olan Anna Jochemsen'in bulunduğu Hollanda ve aynı etkinlikte onuncu olan Katja Saarinen'in bulunduğu Finlandiya yer almaktadır.",
+      "error": null,
+      "seconds": 18.344
+    },
+    {
+      "id": "flores-0301",
+      "line": 301,
+      "source": "The commission was Martelly's response to widespread anti-regime protests that started in October.",
+      "reference": "Martelly, ekim ayında başlayan ve katılımın yüksek olduğu rejim karşıtı gösterilere bu komisyonla yanıt verdi.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Komisyon, Ekim ayında başlayan yaygın rejim karşıtı protestolara Martelly'nin verdiği cevaptı.",
+      "error": null,
+      "seconds": 9.906
+    },
+    {
+      "id": "flores-0401",
+      "line": 401,
+      "source": "Though each country was 'Scandinavian', there were many differences between the people, kings, customs and history of Denmark, Sweden, Norway and Iceland.",
+      "reference": "Her ülke 'İskandinav' olsa da, Danimarka, İsveç, Norveç ve İzlanda halkları, kralları, gelenekleri ve tarihleri arasında birçok fark vardı.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Her ülke \"Kuzey Avrupa\" olsa da, Danimarka, İsveç, Norveç ve İzlanda halkları, kralları, gelenekleri ve tarihleri arasında birçok fark vardı.",
+      "error": null,
+      "seconds": 16.172
+    },
+    {
+      "id": "flores-0501",
+      "line": 501,
+      "source": "Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.",
+      "reference": "Üyelerin yaşı, etnik kökeni, sınıfı, yeri ve/veya cinsiyeti nedeniyle alt kültürler ayırt edici olabilir.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Alt kültürler, üyelerin yaş, etnik köken, sınıf, konum ve/veya cinsiyet özellikleri nedeniyle belirginlik gösterebilir.",
+      "error": null,
+      "seconds": 13.828
+    },
+    {
+      "id": "flores-0601",
+      "line": 601,
+      "source": "Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.",
+      "reference": "Hershey ve Chase, kendilerine ait DNA'ları bir bakteriye implantasyon yöntemi ile yerleştirmek amacıyla faj ve virüslerden yararlandı.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Hershey ve Chase, bakterilerine kendi DNA'sını yerleştirmek için faglar, yani virüsler kullandılar.",
+      "error": null,
+      "seconds": 11.953
+    },
+    {
+      "id": "flores-0701",
+      "line": 701,
+      "source": "The Arabs also brought Islam to the lands, and it took in a big way in the Comoros and Mayotte.",
+      "reference": "Araplar aynı zamanda bu topraklara İslam'ı getirdi ve Komorolarda ve Mayotte'ta çok yaygınlaştı.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Arablar, İslam'ı da topraklara getirdi ve bu din Komorlar'da ve Mayotte'de büyük ölçüde kabul gördü.",
+      "error": null,
+      "seconds": 14.078
+    },
+    {
+      "id": "flores-0801",
+      "line": 801,
+      "source": "They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.",
+      "reference": "Misafirleri iyi bir ruh halinde tutmak ve hoşnut etmek için genellikle özel olarak hazırlanan yiyecek, içecek ve eğlence ikramları olur.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Genellikle konukların iyi bir ruh hali içinde kalmasını ve tesislerde kalmasını sağlamak için özel yemek, içecek ve eğlence teklifleri sunarlar.",
+      "error": null,
+      "seconds": 13.719
+    },
+    {
+      "id": "flores-0901",
+      "line": 901,
+      "source": "Usually you always here the sound of tourists and vendors. The story of the sound and light is just like a story book.",
+      "reference": "Genellikle turistlerin ve satıcıların sesini her zaman duyarsınız. Sesin ve ışığın hikayesi bir hikaye kitabı gibidir.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "development",
+      "text": "Genellikle turistlerin ve satıcıların seslerini her zaman duyarsınız. Ses ve ışığın hikayesi, bir masal kitabı gibidir.",
+      "error": null,
+      "seconds": 12.328
+    },
+    {
+      "id": "flores-holdout-0051",
+      "line": 51,
+      "source": "The Iraq Study Group presented its report at 12.00 GMT today.",
+      "reference": "Irak Çalışma Grubu bildirisni bugün 12.00 GMT'de takdim etti.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Irak Çalışma Grubu, bugün saat 12.00'de (GMT) raporunu sundu.",
+      "error": null,
+      "seconds": 9.813
+    },
+    {
+      "id": "flores-holdout-0151",
+      "line": 151,
+      "source": "The medical charity Mangola, Medecines Sans Frontieres and the World Health Organisation say it is the worst outbreak recorded in the country.",
+      "reference": "Tıbbi yardım kuruluşu Mangola, Sınır Tanımayan Doktorlar ve Dünya Sağlık Örgütü, bunun ülkede görülen en kötü salgın olduğunu söylüyor.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Mangola adlı tıbbi yardım kuruluşu, Médecins Sans Frontières ve Dünya Sağlık Örgütü, bunun ülkede kaydedilmiş en kötü salgın olduğunu belirtiyor.",
+      "error": null,
+      "seconds": 15.484
+    },
+    {
+      "id": "flores-holdout-0251",
+      "line": 251,
+      "source": "Hokuriku Electric Power Co. reported no effects from the earthquake and that the Number 1 and 2 reactors at its Shika nuclear power plant were shut down.",
+      "reference": "Hokuriku Electric Power Co., sarsıntının herhangi bir zarar vermediğini ve Shika nükleer santralindeki 1 ve 2 Numaralı reaktörlerin çalışmasının durdurulduğunu belirtti.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Hokuriku Elektrik Şirketi, depremin herhangi bir etkisi olmadığını ve Şika nükleer santralindeki 1 ve 2 numaralı reaktörlerin kapatıldığını bildirdi.",
+      "error": null,
+      "seconds": 17.0
+    },
+    {
+      "id": "flores-holdout-0351",
+      "line": 351,
+      "source": "The cities of Harappa and Mohenjo-daro had a flush toilet in almost every house, attached to a sophisticated sewage system.",
+      "reference": "Harappa ve Mohenjo-daro şehirlerinin hemen hemen her evi sofistike bir kanalizasyon sistemine bağlı bir sifonlu tuvalete sahipti.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Harappa ve Mohenjo-daro şehirlerinde, her neredeyse evde gelişmiş bir kanalizasyon sistemine bağlı çamur tuvaletler bulunmaktaydı.",
+      "error": null,
+      "seconds": 15.25
+    },
+    {
+      "id": "flores-holdout-0451",
+      "line": 451,
+      "source": "Ancient China had a unique way of showing different time periods; each stage of China or each family that was in power was a distinctive dynasty.",
+      "reference": "Antik Çin, farklı zaman dönemlerini göstermek konusunda özgün bir yol izlemiştir; Çin'in her dönemi veya iktidardaki her aile ayrı bir hanedanlıktır.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Antik Çin'de farklı zaman dönemlerini göstermek için benzersiz bir yöntem vardı; Çin'in her aşaması veya iktidardaki her aile, kendine özgü bir hanedanı temsil ediyordu.",
+      "error": null,
+      "seconds": 18.015
+    },
+    {
+      "id": "flores-holdout-0551",
+      "line": 551,
+      "source": "The job of navies has traditionally been to ensure that your country maintains the ability to move your people and goods, while at the same time, interfering with your enemy's ability to move his people and goods.",
+      "reference": "Donanmaların görevi geleneksel olarak bir yandan ülkenizin, halkınızı ve mallarınızı taşıma kabiliyetini korumak, bir yandan da düşmanın halkını ve mallarını taşıma kabiliyetine müdahale etmesini sağlamak olagelmiştir.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Donanmaların geleneksel görevi, ülkenizin insan ve mallarını taşıma kapasitesini korurken aynı zamanda düşmanın insan ve mallarını taşıma yeteneğini engellemektir.",
+      "error": null,
+      "seconds": 17.063
+    },
+    {
+      "id": "flores-holdout-0651",
+      "line": 651,
+      "source": "The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.",
+      "reference": "Ay'ın yüzeyi kayalardan ve tozdan oluşur. Ay'ın dış katmanına kabuk ismi verilir.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Ay'ın yüzeyi kaya ve tozdan oluşur. Ay'ın dış katmanı kabuk olarak adlandırılır.",
+      "error": null,
+      "seconds": 10.609
+    },
+    {
+      "id": "flores-holdout-0751",
+      "line": 751,
+      "source": "Argentina is well known for having one of the best polo teams and players in the world.",
+      "reference": "Arjantin, dünyanın en iyi polo takımlarından birine ve en iyi oyunculara sahip olmakla meşhurdur.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Arjantin, dünyadaki en iyi polo takımlarından ve oyuncularından birine sahip olmasıyla bilinir.",
+      "error": null,
+      "seconds": 9.812
+    },
+    {
+      "id": "flores-holdout-0851",
+      "line": 851,
+      "source": "Skiing is a major travelling activity with many enthusiasts, occasionally known as \"ski bums,\" planning entire vacations around skiing at a particular location.",
+      "reference": "Kayak \"kayak müptelaları\" olarak da adlandırılan ve belirli bir yerde kayak yapmak için bütün tatillerini planlayan pek çok meraklısı için önemli bir seyahat aktivitesidir.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Kayak, belirli bir konumda kayak yapmak etrafında tüm tatillerini planlayan, bazen \"kayakçı\" olarak da anılan, birçok tutkulu figürü olan önemli bir seyahat aktivitesidir.",
+      "error": null,
+      "seconds": 18.672
+    },
+    {
+      "id": "flores-holdout-0951",
+      "line": 951,
+      "source": "Also to the north visit the great Sanctuary of Our Lady of Fatima (Shrine), a place of worldwide famous Marian apparitions.",
+      "reference": "Ayrıca kuzeyde, dünyaca ünlü Meryem'in görüntüsünün gerçekleştiği bir yer olan büyük Fatima Meryem Ana Tapınağı'nı (Tapınak) ziyaret edin.",
+      "engine": "Qwen3.5-9B-plain-prompt",
+      "split": "holdout",
+      "text": "Kuzeyde ayrıca, dünyaca ünlü Meryem Ana'nın Fatima'daki göründüğü (Şapeli) büyük Kutsal Yer'i ziyaret edin.",
+      "error": null,
+      "seconds": 14.516
+    }
+  ]
+}

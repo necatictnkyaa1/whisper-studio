@@ -1,0 +1,33 @@
+{
+  "purpose": "Geliştirme örneklerinde regresyon; bağımsız doğruluk yüzdesi değil.",
+  "rows": [
+    {
+      "id": "past-now",
+      "source": "\"We now have 4-month-old mice that are non-diabetic that used to be diabetic,\" he added.",
+      "text": "\"Daha önce diyabetik olan, şimdi diyabeti olmayan 4 aylık farelere sahibiz,\" dedi.",
+      "error": null,
+      "seconds": 28.156
+    },
+    {
+      "id": "written-rank",
+      "source": "They include the Netherlands, with Anna Jochemsen finishing ninth in the women's standing class in the Super-G yesterday, and Finland with Katja Saarinen finishing tenth in the same event.",
+      "text": "Hollanda'yı, dün Super-G'de kadınlar pistte sıralama yarışında dokuzuncu sırada bitiren Anna Jochemsen'i ve Finlandiya'yı, aynı etkinlikte onuncu sırada bitiren Katja Saarinen'i içerir.",
+      "error": null,
+      "seconds": 28.047
+    },
+    {
+      "id": "independent-past-now",
+      "source": "This server used to be offline, but it is online now.",
+      "text": "Bu sunucu daha önce çevrimdışıydı, ancak şimdi çevrimiçi.",
+      "error": null,
+      "seconds": 14.953
+    },
+    {
+      "id": "mixed",
+      "source": "Bu hafta buradaydım. What was the last topic?",
+      "text": "Bu hafta buradaydım. Son konu neydi?",
+      "error": null,
+      "seconds": 11.25
+    }
+  ]
+}
